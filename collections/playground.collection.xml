@@ -10,11 +10,6 @@
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
   </col:metadata>
   <col:content>
-    <col:subcollection>
-      <md:title>subcollection</md:title>
-      <col:content>
-          <col:module document="m123" sys:version-at-this-collection-version="999.999"><md:title>We still needs titles in  the Collxml</md:title></col:module>
-      </col:content>
-    </col:subcollection>
+
   </col:content>
 </col:collection>
