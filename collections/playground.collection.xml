@@ -13,6 +13,12 @@
         <module document="m00003"/>
         <module document="m00002"/>
         <module document="m00004"/>
+        <subcollection>
+          <md:title>New Subcollection</md:title>
+          <content>
+            <module document="m00005"/>
+          </content>
+        </subcollection>
       </content>
     </subcollection>
   </content>
