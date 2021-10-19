@@ -2,8 +2,18 @@
   <col:metadata>
     <md:uuid>00000000-0000-0000-0000-000000000000</md:uuid>
     <md:title>test book</md:title>
+    <md:content-id>col000000</md:content-id>
+    <md:language>es</md:language>
     <md:slug>playground</md:slug>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
   </col:metadata>
-  <content/>
+  <content>
+    <module document="m00001"/>
+    <subcollection>
+      <md:title>test</md:title>
+      <content>
+        <module document="m00002"/>
+      </content>
+    </subcollection>
+  </content>
 </col:collection>
