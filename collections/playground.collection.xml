@@ -10,10 +10,15 @@
   <content>
     <module document="m00001"/>
     <subcollection>
-      <md:title>&lt;emphasis effect="italics">Pax Mongolia&lt;/emphasis>: Testing Italics</md:title>
+      <md:title>Testing Unit Title</md:title>
       <content>
-        <module document="m00003"/>
-        <module document="m00004"/>
+        <subcollection>
+          <md:title>&lt;emphasis effect="italics">Pax Mongolia&lt;/emphasis>: Testing Italics</md:title>
+          <content>
+            <module document="m00003"/>
+            <module document="m00004"/>
+          </content>
+        </subcollection>
       </content>
     </subcollection>
   </content>
