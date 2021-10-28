@@ -14,7 +14,9 @@
     The study of history encompasses people and places across the globe. The span of time covered in the discipline is expansive, especially in light of the comparatively short timeframe of post-Columbus north American history that many students are most familiar with. This course will help you understand that vastness. This is just placeholder text.
     </item></list>
     </section>
-    <section id="fs-idm254701264"><title>Header Level H2 for WW-Test; The Quick Brown Fox Jumped over the Lazy Dog</title>
+    <section id="fs-idm254701264">
+      <title>Header Level H2 for WW-Test; The Quick Brown Fox Jumped over the Lazy Dog</title>
+      <div class="centered-text"><code>=SLOPE(NONSENSE)</code></div> 
     <para id="fs-idm229033056">WW-test notes that all header levels are placed in sequence here with minimal intervening text so we can see the hierarchy of header design in one place. The H2, H3, and H4 notes refer to what WW-content would send to WW-prod (one level different than platform). </para><section id="eip-929"><title>Header Level H3 for WW-Test; The Quick Brown Fox Jumped over the Lazy Dog</title><para id="eip-966">
     WW-test notes that all header levels are placed in sequence here with minimal intervening text so we can see the hierarchy of header design in one place. The H2, H3, and H4 notes refer to what WW-content would send to WW-prod (one level different than platform).
     </para><section id="eip-43"><title>Header Level H4 for WW-Test; The Quick Brown Fox Jumped over the Lazy Dog</title><para id="eip-217">
