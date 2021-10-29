@@ -16,7 +16,7 @@
     </section>
     <section id="fs-idm254701264">
       <title>Header Level H2 for WW-Test; The Quick Brown Fox Jumped over the Lazy Dog</title>
-      <div class="centered-text"><code>=SLOPE(NONSENSE)</code></div> 
+      <code class="centered-code">=SLOPE(NONSENSE)</code> 
     <para id="fs-idm229033056">WW-test notes that all header levels are placed in sequence here with minimal intervening text so we can see the hierarchy of header design in one place. The H2, H3, and H4 notes refer to what WW-content would send to WW-prod (one level different than platform). </para><section id="eip-929"><title>Header Level H3 for WW-Test; The Quick Brown Fox Jumped over the Lazy Dog</title><para id="eip-966">
     WW-test notes that all header levels are placed in sequence here with minimal intervening text so we can see the hierarchy of header design in one place. The H2, H3, and H4 notes refer to what WW-content would send to WW-prod (one level different than platform).
     </para><section id="eip-43"><title>Header Level H4 for WW-Test; The Quick Brown Fox Jumped over the Lazy Dog</title><para id="eip-217">
