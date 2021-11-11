@@ -1,301 +1,921 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
-  <title>The End of the Crusader States</title>
+  <title>Visualizing Data</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>The End of the Crusader States</md:title>
+    <md:title>Visualizing Data</md:title>
     <md:content-id>m00004</md:content-id>
     <md:uuid>cc48d016-d566-418f-a8d9-052e617d0478</md:uuid>
   </metadata>
-  <content>
-    <section id="fs-idm243988944" class="learning-objectives"><title>Learning Objectives</title><para id="eip-2947">By the end of this section, you will be able to:</para>
-    <list id="fs-idm233554592"><item>Describe conditions in Europe at the beginning of the twentieth century</item>
-    <item>Analyze the nature of the alliances that existed among the European powers by 1914</item>
-    <item>Explain how the desire for colonies destabilized the balance of power in the world in the early twentieth century</item>
-    <item>Describe the competition among the world’s industrialized nations to build modern navies in the early twentieth century
-    The study of history encompasses people and places across the globe. The span of time covered in the discipline is expansive, especially in light of the comparatively short timeframe of post-Columbus north American history that many students are most familiar with. This course will help you understand that vastness. This is just placeholder text.
-    </item></list>
-    </section>
-    <section id="fs-idm254701264">
-      <title>Header Level H2 for WW-Test; The Quick Brown Fox Jumped over the Lazy Dog</title>
-      <code class="centered-code">=SLOPE(NONSENSE)</code> 
-    <para id="fs-idm229033056">WW-test notes that all header levels are placed in sequence here with minimal intervening text so we can see the hierarchy of header design in one place. The H2, H3, and H4 notes refer to what WW-content would send to WW-prod (one level different than platform). </para><section id="eip-929"><title>Header Level H3 for WW-Test; The Quick Brown Fox Jumped over the Lazy Dog</title><para id="eip-966">
-    WW-test notes that all header levels are placed in sequence here with minimal intervening text so we can see the hierarchy of header design in one place. The H2, H3, and H4 notes refer to what WW-content would send to WW-prod (one level different than platform).
-    </para><section id="eip-43"><title>Header Level H4 for WW-Test; The Quick Brown Fox Jumped over the Lazy Dog</title><para id="eip-217">
-    WW-test notes that all header levels are placed in sequence here with minimal intervening text so we can see the hierarchy of header design in one place. The H2, H3, and H4 notes refer to what WW-content would send to WW-prod (one level different than platform).
-    </para></section></section>
-    </section><section id="eip-942"><title>Africa and Migration</title><para id="eip-120">
-    In <emphasis effect="italics">The Descent of Man</emphasis> (1871), the English naturalist <term id="term-00001">Charles Darwin</term> proposed that Africa was the “cradle of humankind.” At the time, Darwin’s suggestion was highly controversial, in part because it flew in the face of accepted belief in the Biblical creation story of mankind, and because it challenged European notions of racial superiority. But a raft of discoveries in the 20th century, including <emphasis effect="italics">Australopithecus afarensis</emphasis> by Raymond Dart in South Africa, the stone-tool-wielding <emphasis effect="italics">Homo habilis</emphasis> by the Leakey family in Tanzania’s Olduvai Gorge, and “<term id="term-00002">Lucy</term>,” the most famous of all <emphasis effect="italics">Australopithecine</emphasis> specimens, by Donald Johanson in Ethiopia’s Awash River , have revealed a fossil record that confirms Darwin’s theory of humankind’s African genesis. Recent DNA mapping of human descent has corroborated the earlier painstaking work of these paleoanthropologists.
-    </para>
-    <para id="eip-679">The appearance of <emphasis effect="italics">H. habilis</emphasis> between 2.3 and 1.65 million years ago signaled the beginning of the <term class="no-emphasis" id="term-00003">Stone Age</term>, an epoch in human history divided into three periods: the Early, Middle, and Late. Homo sapiens, the ancestor of modern humans (<term class="no-emphasis" id="term-00004"><emphasis effect="italics">Homo sapiens sapiens</emphasis></term>), diverged from these earlier <emphasis effect="italics">hominin</emphasis> species during the Middle Stone Age, around 200,000 years ago. Recognizably modern humans appeared in the savannah woodlands of eastern and southern Africa a hundred or so millennia later during the Late Stone Age or Neolithic Period, sometime between 120,000 and 90,000 years ago. The Neolithic was witness to a series of dramatic technological and social revolutions that transformed humanity, in particular the domestication of plants and animals, farming, and the invention of pottery. Although these advances developed gradually, and often in response to each other, the result was a cumulative package of human innovation referred to as the <term id="term-00005">Neolithic Revolution</term>. </para><para id="eip-284">Before the Neolithic Revolution, life in prehistoric Africa was characterized primarily by the hunter-gatherer stage of human civilization. <term id="term-00006">Hunter-gatherers</term> survived directly from nature through the gathering of wild roots and fruits and vegetables, as well as the hunting of wild animals. Communities of hunter-gatherers were very small, typically consisting—at most—of several dozen people. Despite their size, these groups had contact and engaged in limited trade with other similar populations who, like themselves, were highly mobile. They generally used the methods in this bulleted list.</para><list id="eip-829"><item>Here is the first bulleted item. </item>
-    <item>Here is the second bulleted item. It is much longer so we can see what happens when items in the list need to wrap onto a second or even a third or even a fourth line.</item>
-    <item>Here is the third bulleted item in the list.</item></list><para id="eip-332">Now the list is complete and we can move onto talking more about history and how useful and important this topic is for college students.</para><para id="eip-417">The unsettlement of these peoples was necessitated by their circumstances: limited resource availability, the need for water, the reality of natural calamities and human conflict all forced these groups to live transportable and peripatetic lifestyles. The small group size also meant little hierarchy and informal authority, although the earliest forms of role specialization are apparent at this stage of human development: younger and heartier members of the community were assigned more strenuous duties than the elderly; hunting was the preserve of menfolk; gathering was more typically the role of womenfolk and children. By around 60,000 years ago, these nomadic hunter-gatherers and their lifestyle could be found across most of Africa and had begun to move into Europe and Asia. </para></section><section id="eip-436"><title>The Long Peace</title><para id="eip-149">
-    The agricultural and pastoral innovations of the Neolithic Revolution came together in the period after 10,000 B.C.E. and brought with them important changes to the way of life of many of the Stone Age peoples of Africa. For the first time, the domestication of plants and animals—or “farming”—enabled fixed settlement, resulting in the abandonment of hunter-gatherer nomadism by all but a few African groups. Although scholars still debate its origins, the oldest evidence of agriculture and pastoralism comes from northeastern Africa where, sometime after 9000 B.C.E., the Nilo-Saharans adopted the grain-collecting and grinding techniques of their northern neighbors and applied them to sorghum and pearl millet, the tropical grasses of the middle Nile. By around 8000 B.C.E., they had invented pottery to cook a grain-based oatmeal-like dish. During the same period, the Nilo-Saharans domesticated the wild cattle of the Red Sea hills, developing herding and grazing techniques that, like their agricultural practices, gradually diffused westward across the Sahara and northward toward Egypt, as shown in 
-    </para>
-   <para id="eip-189">The spread and adoption of new agricultural and pastoral techniques as well as iron technology in Africa was slow and uneven, affected to varying degrees by a range of circumstances. In the case of agriculture and pastoralism, environmental factors (such as rainfall and soil fertility) and biological factors (including the prevalence of the tsetse fly and lactose intolerance among human populations, both of which prevented the keeping of cattle) predetermined suitability. Nevertheless, agriculture was adopted successfully in most areas of Africa, often despite poor soil, and manifested first in West and Central Africa and, later, in East and Southern Africa. The coincidence of ironworking with agriculture shares a similar geography. In North, West, and Central Africa, farming generally preceded iron, while in East and Southern Africa, agriculture and iron spread nearly simultaneously.</para><para id="eip-767">As it happened, these developments largely overlapped with—and contributed to—the rapid spread of a family of some 400-500 closely related languages known as Bantu. Around five thousand years ago (ca. 3000 B.C.E.), the ancestors of the <term id="term-00007">Bantu</term> (the “proto-Bantu”) were centered on the area between modern-day Nigeria and Cameroon in West-Central Africa. A Stone Age people, the proto-Bantu were agriculturalists who subsisted by cultivating pearl millet and yams and extracting oil from the abundant palm and bush candle (Canarium) trees of the region’s luxuriant rainforests. Gradual changes in weather patterns caused the rainforests to recede and, coupled with increasingly seasonal rainfall, opened tracts of savanna between forested areas. Over time, these open patches merged to form the Sangha River Interval, a 200-mile-wide grassland running north-south between modern-day southeastern Cameroon, southern Central African Republic, and northern Republic of Congo. This grassland corridor allowed the hitherto forest-dwelling Bantu to move southward, through what had once been impenetrable tropical rainforest.</para></section><section id="eip-376"><title>This Section Will Show the Three of the Feature Boxes in <emphasis effect="italics">World History</emphasis></title><para id="eip-69">
-    The movement of the Bantu-speaking people beginning around 2000 B.C.E. is referred to as the <term id="term-00008">Bantu Migrations</term>. Although scholars continue to debate the precise timing, motivation, and directions of expansion, linguistic and archaeological evidence in the form of pottery and ironmaking technology suggest that there were multiple waves of Bantu migrations. The earliest phase seems to have consisted of two phases: an initial eastern stream or “early split,” followed somewhat later by a western “rivers and coasts” stream. These streams moved gradually and sporadically, proceeding eastward first, across the northern reaches of the Congo forest and arriving in the interlacustrine or Great Lakes region of East Africa around 1500 B.C.E.
-    </para>
-    <note id="eip-idm261701920" class="own-words"><title>Sample Feature Box Using Lorem Ipsum Bob Ross</title>
-    <para id="eip-idm229171792">This is the “In Their Own Words” FB description from the WEG: This is where students are presented with a textual primary source for review and/or analysis. Depending on the source, they may be asked a series of questions that develop the students’ ability to think critically about primary sources or it could be presented as a launching point for a “Connections” discussion or a “Finding Your Voice” assignment (see below). There should be at least 1 OW box each chapter, but we will likely have more since we want to focus on primary sources wherever we can.
-    Only think about one thing at a time. Don't get greedy. God gave you this gift of imagination. Use it. Nice little clouds playing around in the sky. In your imagination you can go anywhere you want. I sincerely wish for you every possible joy life could bring. Clouds are free. They just float around the sky all day and have fun.</para>
-    <quote id="eip-idm242906128">
-    <para id="eip-idm234565765">Talent is a pursued interest. That is to say, anything you practice you can do. You can create the world you want to see and be a part of. You have that power. You can do anything here - the only pre-requisite is that it makes you happy. Let your heart be your guide. You can't make a mistake. Anything that happens you can learn to use - and make something beautiful out of it. This piece of canvas is your world. A big strong tree needs big strong roots.</para></quote>
-    <para id="eip-idm243241296">We don't really know where this goes - and I'm not sure we really care. Tree trunks grow however makes them happy. See. We take the corner of the brush and let it play back-and-forth. It's amazing what you can do with a little love in your heart. Every time you practice, you learn more.</para>
-    <para id="eip-idm237434240">Just make little strokes like that. But we're not there yet, so we don't need to worry about it. Now let's put some happy little clouds in here. Trees get lonely too, so we'll give him a little friend. If you didn't have baby clouds, you wouldn't have big clouds. We'll lay all these little funky little things in there.</para>
-    <list id="eip-idm250516576" class="critical-thinking"><item>What would Bob Ross think about this lorem ipsum?</item></list></note><para id="eip-827">Dominated by the Urewe culture, this region was one of the oldest centers of iron-smelting in Africa, and it is likely here that the Bantu learned the iron-forging techniques that enabled them to later produce carbon steel. As small clusters of Bantu-speakers advanced into modern Kenya and Tanzania, nuclei of interlacustrine Bantu turned toward Congo, while other groups pushed southward, in the direction of southern East Africa. By the third or fourth century B.C.E., Bantu-speaking communities stretched from the extreme southern reaches of Somalia in the north to Mozambique in the south. It is these communities which later formed a basis of the mixed Perso-Arab/Bantu settlements of the great medieval trading civilization which developed along the Swahili Coast.
-    </para>
-    <note id="eip-idm266341600" class="dueling-voices"><title>Sample Feature Box Using Lorem Ipsum Postmodern Academia</title>
-    <para id="eip-idm256408048">This is the Description of the “Dueling Voices” FB from the WEG: This box consists of either 1) a historiographical debate on the topic at hand that is not lengthy, but that highlights history as an interpretive discipline, or 2) a side-by-side primary source reading that offers two different interpretations of the same event—they can be either directly contrasting, or show different perspectives. There should be at least 1 DV box each chapter.
-    </para>
-    <para id="eip-idm251333600">
-    If one examines Lyotardist narrative, one is faced with a choice: either reject prestructuralist nationalism or conclude that the significance of the participant is significant form. A number of sublimations concerning Lyotardist narrative may be discovered. “Society is part of the absurdity of reality,” says Foucault. But the characteristic theme of the works of Rushdie is a mythopoetical whole. Marx promotes the use of subcapitalist cultural theory to analyse and read art.
-    </para>
-    <para id="eip-idm233389584">The main theme of Parry’s analysis of postconceptualist dialectic theory is the role of the observer as participant. However, the subject is interpolated into a Lyotardist narrative that includes narrativity as a reality. The characteristic theme of the works of Rushdie is the difference between society and sexual identity.
-    </para>
-    <para id="eip-idm261653248">It could be said that the subject is contextualised into a subcapitalist cultural theory that includes truth as a whole. Lyotard suggests the use of prestructuralist nationalism to deconstruct the status quo.But if Lyotardist narrative holds, we have to choose between Foucaultist power relations and precapitalist construction. Bataille promotes the use of subcapitalist cultural theory to analyse art.
-    Thus, Baudrillard uses the term ‘Lyotardist narrative’ to denote not deappropriation, as subcapitalist cultural theory suggests, but subdeappropriation. The subject is interpolated into a prestructuralist nationalism that includes consciousness as a totality.
-    </para>
-    <para id="eip-idm243181536">However, the example of Lyotardist narrative depicted in Rushdie’s <emphasis effect="italics">Satanic Verses</emphasis> is also evident in <emphasis effect="italics">The Ground Beneath Her Feet</emphasis>. Many narratives concerning the genre, and eventually the collapse, of structuralist society exist. It could be said that Marx suggests the use of Lyotardist narrative to attack hierarchy. An abundance of theories concerning subcapitalist cultural theory may be revealed.
-    </para>
-      <list id="eip-idm256195152" class="critical-thinking"><item>What arguments are made via each perspective presented?</item>
-      <item>Consider the statistical data surrounding this event, does one perspective or the other seem more valid? To what extent is validity about the experience and perspective regardless of statistical data?</item></list></note><para id="eip-975">The western stream of Bantu progressed considerably more slowly than the eastward stream, advancing south along the West African coast into modern Gabon and the Democratic Republic of Congo, with small groups branching off to follow the Congo River system inland, as early as 1500 B.C.E. It was not until the early centuries of the Common Era that the western stream penetrated Angola in the far southern extreme of West Africa. Around this time, during the first half of the first millennium C.E., East Africa witnessed a third phase of Bantu expansion, with groups moving through and settling in parts of modern Mozambique, Botswana, Zambia, and eastern South Africa. By 500 C.E., all parts of the vast tropical rainforest had been settled by Bantu-speaking farming communities, and populations of Bantu-speaking peoples could be found throughout Southern Africa, from the savanna woodland south of the Congo forest and the savanna of northern Namibia in the west, to interlacustrine Greater East Africa, western Tanzania, and eastern Botswana in the east, to the Transvaal high veldt, Natal, and eastern Cape in the south. </para>
-    <note id="eip-idm254814736" class="beyond-book"><title>Sample Feature Box Using Lorem Ipsum Cheese</title>
-    <para id="eip-idm275687856">This is the description of the “Beyond the Book” FB from the WEG: This box focuses on non-textual sources such as art, physical objects, or architecture, with the goal of helping students understand the value of these kinds of sources in historical work. This feature could also be a place to propose games and other pedagogical tools related kinesthetic learning, or include music or speeches requiring auditory processing (via a Link2Learning box just below the feature). Everyone loves hard cheese cheesy grin. Fondue cheesy feet feta cheese slices cut the cheese chalk and cheese cheesy feet boursin. Taleggio pecorino cheese on toast the big cheese camembert de normandie everyone loves cottage cheese boursin. Macaroni cheese st. agur blue cheese cheese triangles say cheese cheese and wine who moved my cheese jarlsberg swiss. Cheese slices manchego fromage frais the big cheese goat roquefort cheese slices chalk and cheese. Pecorino goat squirty cheese stilton mascarpone taleggio brie cheese strings. Chalk and cheese cow brie mozzarella gouda.
-    </para>
-    <para id="eip-idm268504672">
-    Macaroni cheese cheese and wine manchego. Halloumi cheesy grin cottage cheese roquefort swiss cheesy feet port-salut emmental. Gouda emmental cottage cheese swiss feta goat stinking bishop cheeseburger. Bocconcini taleggio lancashire cow cheeseburger blue castello mascarpone when the cheese comes out everybody's happy. Babybel ricotta cheesy grin edam taleggio monterey jack everyone loves fromage. Rubber cheese cheeseburger hard cheese blue castello cheesy grin paneer macaroni cheese cheddar. Cheddar bocconcini chalk and cheese swiss caerphilly smelly cheese cut the cheese port-salut. Cheddar gouda rubber cheese cheese strings.
-    
-    </para>
-    <para id="eip-idm272827088">Say cheese brie red leicester. Cheesecake pepper jack swiss airedale fondue gouda cheesecake chalk and cheese. Feta cottage cheese smelly cheese say cheese mozzarella ricotta airedale who moved my cheese. Brie when the cheese comes out everybody's happy ricotta caerphilly roquefort cut the cheese monterey jack cheesy feet. Queso fromage st. agur blue cheese cheese slices boursin ricotta emmental emmental. Chalk and cheese goat taleggio
-    </para><list id="eip-idm253041872" class="critical-thinking">
-    <item>Here are some critical thinking questions about this box?
-    </item>
-    <item>How many cheeses have you eaten this week?
-    </item>
-    <item>Which cheese is your favorite?
-    </item></list></note><para id="eip-385">WW-test notes that this paragraph has a few index term functionalities, such as not including the full
-    term to reduce duplicate entries for singular and plural terms. Consider print services and advertising. Mac’s and Cheese is a
-    local restaurant and wants a special sign on an already constructed billboard outside a stadium Since it wants that sign
-    targeted to stadium customers, the company would want a sign built specifically for that site. Dinosaur Vinyl, Inc. is the
-    sign manufacturer and would use <term class="no-emphasis" id="term-00009">Job Order Costing</term> to account for the manufacturing costs
-    of the sign. Now imagine Mac’s and Cheese also wanting to create flyers to place on cars in the <term class="no-emphasis" id="term-00010">stadium</term>
-    during each game. Other times they want to test an index term without every letter so that <term class="no-emphasis" id="term-00011">stadium</term>s appears
-    singular in the index. Those flyers are identical to each other and produced in large batches and by a company that uses process costing.</para></section><section id="eip-37"><title>Treaties and Alliances</title><para id="eip-62">
-    A significant stage in the millennia-long process of Bantu migrations is marked by the introduction of iron-smelting to equatorial Africa around 500 B.C.E. As seen in [link]Figure 01_01_NewWorld[/link], iron tools, such as axes, knives, and hoes, made possible Early Iron Age Bantu penetration into the stretches of rainforest to the south and east of the grassland, while iron weapons, such as knives, spears, and arrowheads, allowed them to successfully wage war against others. As they migrated southward and across savanna, the Bantu settled in regions that were thinly-populated by an array of peoples, ranging from hunting-gathering communities to cultures employing a wide variety of farming and animal husbandry techniques. Among these were Khoisan hunter-gatherers, Pygmy foragers, and Cushitic- and Sudanic-speaking peoples whose principal skills were pastoralism and cereal cultivation.
-    </para>
-    
-    <para id="eip-idm260400992">The Bantu intermarried and exchanged ideas with these and other peoples, incorporating Bantu knowledge of the cultivation of rainforest crops with the agricultural and pastoral practices of savanna cultures and iron-smelting technologies of the interlacustrine peoples, adapting their techniques to a variety of different ecosystems and conditions, and creating knowledge-clusters that migrated with them as they pushed farther east and south. The spread of Bantu languages was accompanied by the diffusion of innovations in crops, animal and plant husbandry, village settlements, and iron technology across Southern Africa. </para><section id="eip-719"><title>Colonies and Conflict</title><para id="eip-881">
-    The expansion of Bantu-speakers during the Iron Age had the effect of laying a mostly common sociocultural foundation throughout the African subcontinent. The earliest stage of this development, between the second and fifth centuries C.E., was marked by the relatively rapid spread of iron-working farmers throughout much of eastern, western, and southeastern regions of the subcontinent. The nascent <term class="no-emphasis" id="term-00012">Iron Age</term> economy was dominated by farming, with the main crops being sorghum and millet, sometimes supplemented by melons and beans. Most of these farmers also kept livestock (including cattle, pigs, and chickens), although such animal husbandry as there was tended to be an adjunct feature to the period’s overwhelmingly agricultural milieu. Because the regions into which they moved were thinly populated by roving bands of hunter-gatherers, Bantu-speakers were able to choose the most suitable land for farming. Still, their settlements during these earliest Iron Age centuries tended to be relatively small, typically consisting of a dozen or so houses, although large settlements (sometimes in the range of several hectares) could be found in regions such as Natal. A key consideration for the siting of these settlements was proximity to iron ore and wood sufficient to produce the charcoal to fire smelting furnaces and manufacture carbon steel. The embryonic nature of the early Iron Age Bantu economy necessitated an emphasis on self-sufficiency with little potential for trade, although evidence exists that communities engaged in some small-scale trade, particularly of sought-after commodities like copper and salt in regions of the Congo and Tanzania.
-    </para></section><section id="eip-147"><title>The Arms Race</title><para id="eip-653">
-    Down to around the eighth century, there was a centuries-long period of consolidation during which the resources of the more favorable areas were developed and exploited while adaptations were made to local environments. Throughout, the Bantu remained a classically “stateless” society. Organized along kinship lines, each village contained an extended family and its dependents. Typically, there was a clear division of labor: women tended crops, prepared food, and minded the smaller children, while men tended livestock, hunted for meat and for animal skins for clothing, and engaged in trade with other villages. Although some evidence suggests there were opportunities for women to assume leadership positions, this seems to have been exceptional: whereas the archaeological evidence of male dominance is considerable. Authority was, in any event, decentralized in these Bantu communities, with no rigidly hierarchical power structure which exercised central authority.
-    </para></section></section><section id="eip-665"><title>This Section Will Show the Other Feature Boxes in <emphasis effect="italics">World History</emphasis>.</title><note id="eip-idm249349888" class="past-present">
-    <para id="eip-idm264714656">This is the description of “The Past Meets the Present” FB from the WEG: This would be a point of connection or relevancy piece that would highlight an aspect of chapter content that speaks to an issue in today’s world.</para>
-    <para id="eip-idm256141488">WW-test notes that this feature box has a figure, a table, an index term, a footnote<footnote id="cnx-1214214">A footnote for WW-test. Let’s make this one long so we can see how it aligns if it wraps down a line. Let’s make this one long so we can see how it aligns if it wraps down a line. Let’s make this one long so we can see how it aligns if it wraps down a line.</footnote>, a link to a figure, and a link to an external URL (visit www.openstax.org). Pezzy little Dalek well fit rumpy pumpy Doctor Who numbskull flip flops, rather complete mare clotted cream pie-eyed fish and chips chinwag scrote, nuthouse houlligan a bottle of plonk sweets flabbergasted. In a pickle tally-ho 'ar kid bull dog ask your mother if owt 'ar kid, get away with ya squirrel it's spitting scones rambunctious, naff the dog's dinner lost the plot middle class punter. Willy bread and butter pudding lost the plot atrocious what a mug bargain Betty squiffy bangers and mash, flabbergasted ee bah gum down South challenge you to a duel the chippy Dalek, as shown in .</para>
-    
-    <para id="eip-idm234117952">Have a bash in the jacksy a reet bobbydazzler how's your father gob, middle class how's your father get away with ya, clotted cream Dalek some mothers do 'ave 'em. A right toff ey up duck 'ar kid up at the crack of dawn through the dales her Majesty's pleasure well chuffed, that's ace a total jessie blummin' Bob's your uncle utter shambles. </para>
-    <table id="eip-65" summary="This table has a caption that summarizes the point."><title>Table inside a Feature Box</title>
-    <tgroup cols="3"><tbody>
-      <row>
-        <entry>Continent</entry>
-        <entry>Nation</entry>
-        <entry>City</entry>
-      </row>
-      <row>
-        <entry>North America</entry>
-        <entry>Mexico</entry>
-        <entry>Mexico City</entry>
-      </row>
-      <row>
-        <entry>Asia</entry>
-        <entry>Japan</entry>
-        <entry>Tokyo</entry>
-      </row>
-    
-      <row>
-        <entry>Europe</entry>
-        <entry>Spain</entry>
-        <entry>Barcelona</entry>
-      </row>
-    </tbody>
-    </tgroup><caption>This table has a caption that summarizes the point.</caption>
-    </table><para id="eip-idm234117216">Bangers and mash curtain twitching they can sod off well fit argy-bargy the dog's dinner Doctor Who got his end away flabbergasted, Time Lord off t'pub treacle make a brew whizz munta squirrel, penny-dreadful ended up brown bread throw a spanner in the works squirrel chuffed chap half-inch it.
-    </para>	<list id="eip-idm123918247" class="critical-thinking"><item>What arguments are made via each perspective presented?</item>
-      <item>Consider the statistical data surrounding this event, does one perspective or the other seem more valid? To what extent is validity about the experience and perspective regardless of statistical data?</item></list></note><para id="eip-494">Hand in hand with finding causation is determining what informs the choices people made in the past. What makes people change or act? For much of history, the answer lay for most historians in the actions of elites—Caesars, kings, and queens. This seemed natural in a world where the king’s choice became everyone’s choice and where sources rarely spoke about anyone other than noble lords and ladies. That it this type of “<term id="term-00013">great man’s history</term>” remained the norm for so long was also a function of who was writing the history. Thomas Carlyle, a nineteenth century historian, considered the study of the lives of “big men” as enough to understand all of history. Higher education was the prevue of the rich; it must have seemed quite natural believe that only the elites could move history. </para>
-    <table id="eip-idm257004032" summary="This table has a caption that summarizes the point."><title>Table ouside a Feature Box</title>
-    <tgroup cols="3"><tbody>
-      <row>
-        <entry>Continent</entry>
-        <entry>Nation</entry>
-        <entry>City</entry>
-      </row>
-      <row>
-        <entry>North America</entry>
-        <entry>Mexico</entry>
-        <entry>Mexico City</entry>
-      </row>
-      <row>
-        <entry>Asia</entry>
-        <entry>Japan</entry>
-        <entry>Tokyo</entry>
-      </row>
-    
-      <row>
-        <entry>Europe</entry>
-        <entry>Spain</entry>
-        <entry>Barcelona</entry>
-      </row>
-    </tbody>
-    
-    </tgroup><caption>This table has a caption that summarizes the point.</caption>
-    </table><para id="eip-203">It was around the time of Napoleon that these ideas began change, slowly. The Romantics believed that there was greatness in the everyday. Even a small flower was worthy of a poem and the plight of a lowly squire was as important as the worries of the great lord of the manor for both were essential parts of the human experience. Tolstoy, writing later in 1860, argued that there is far more to history than the actions of one man. In <emphasis effect="italics">War and Peace</emphasis>, he contends that “general mass of men” who participate in history are the ones that truly cause events. </para><para id="eip-465">They also help us put in the final piece, which is the practice of <term id="term-00014">historical empathy</term>. To fully embrace the study of the past, the student of history must be able to set aside the assumptions of the modern era. It is not the historian’s job to pass judgment on the past but present it as clearly as possible and to preserve that picture for future generations. The more strands that we can investigate and bring together, the more accurate the picture will be. And there is still much work to be done. For example, recent research into areas of LGQBT studies, indigenous studies, and the global south will continue to sharpen the image of the past.
-    
-    </para><para id="eip-689">The bottom line is that interpretation has a central role in the history of history (). And interpretative changes increase the number of ways we can use to get a clearer picture of those who lived before us. The danger lies in using only one lens. If you elevate one over all of the others, your picture of the past is less clear.</para>
-    <para id="eip-308">A key consideration for the siting of these settlements was proximity to iron ore and wood sufficient to produce the charcoal to fire smelting furnaces and manufacture carbon steel. The embryonic nature of the early Iron Age Bantu economy necessitated an emphasis on self-sufficiency with little potential for trade, although evidence exists that communities engaged in some small-scale trade, particularly of sought-after commodities like copper and salt in regions of the Congo and Tanzania. </para>
-    <note id="eip-idm254154432" class="link-to-learning">
-    <para id="eip-idm260035376">WW-test notes that this feature tests index terms in a feature. Dynamic Systems provides bar code traceable software and helps companies track the costs associated with production. Not understanding <link url="http://www.a-barcode.com/blog/job-costing-vs-process-costing-whats-the-difference/#.Wcq0S9VSzIU">the difference between job order cost systems and process cost systems</link> is common as customers often ask if their job order cost <term class="no-emphasis" id="term-00015">software</term> is also the process cost software.</para>
-    </note><para id="eip-258">A key consideration for the siting of these settlements was proximity to iron ore and wood sufficient to produce the charcoal to fire smelting furnaces and manufacture carbon steel. The embryonic nature of the early Iron Age Bantu economy necessitated an emphasis on self-sufficiency with little potential for trade, although evidence exists that communities engaged in some small-scale trade, particularly of sought-after commodities like copper and salt in regions of the Congo and Tanzania.</para></section>
-    <section id="fs-idm267672640" class="section-summary">
-    <title>Section Summary</title><para id="fs-idm273825168">In this section we have learned about creative ways to produce an entrepreneurial vision. There are many different methods that can work, and you should choose the one that best suits your situation. If that method is not productive, of course you should try another. Remember, entrepreneurial visions are not made overnight, but with time and effort, you will refine your vision to best match your entrepreneurial goals and objectives. WW-test notes that this section summary includes <emphasis>bold</emphasis>, <emphasis effect="italics">italic</emphasis>. </para>
-    </section>
-    <section id="fs-idm265611728" class="review-questions">
-    <title>Review Questions</title>
-    <exercise id="fs-idm273856192">
-    <problem id="fs-idm280546448">
-      <para id="fs-idm278322880">
-    <link class="os-embed" url="#exercise/WH-Ch01-Mod01-RQ02"/>
-      </para>
-    </problem>
-    </exercise>
-    <exercise id="fs-idm279941024">
-    <problem id="fs-idm256569376">
-      <para id="fs-idm251496304">
-    <link class="os-embed" url="#exercise/WH-Ch01-Mod01-RQ03"/>
-      </para>
-    </problem>
-    </exercise>
-    <exercise id="fs-idm273719872">
-    <problem id="fs-idm256994944">
-      <para id="fs-idm278924512">
-    <link class="os-embed" url="#exercise/WH-Ch01-Mod01-RQ04"/>
-      </para>
-    </problem>
-    </exercise>
-    </section>
-    <section id="fs-idm252849120" class="check-understanding">
-    <title>Check Your Understanding</title>
-    <exercise id="fs-idm268059264">
-    <problem id="fs-idm262714592">
-      <para id="fs-idm279936256">
-    <link class="os-embed" url="#exercise/WH-Ch01-Mod01-CYU01"/>
-      </para>
-    </problem>
-    </exercise>
-    <exercise id="fs-idm261811616">
-    <problem id="fs-idm273028848">
-      <para id="fs-idm253983456">
-    <link class="os-embed" url="#exercise/WH-Ch01-Mod01-CYU02"/>
-      </para>
-    </problem>
-    </exercise>
-    <exercise id="fs-idm252071904">
-    <problem id="fs-idm266334736">
-      <para id="fs-idm257841952">
-    <link class="os-embed" url="#exercise/WH-Ch01-Mod01-CYU03"/>
-      </para>
-    </problem>
-    </exercise>
-    </section>
-    <section id="fs-idm274478560" class="reflection-questions">
-    <title>Reflection Questions</title>
-    <exercise id="fs-idm280550000">
-    <problem id="fs-idm254769952">
-      <para id="fs-idm267641904">
-    <link class="os-embed" url="#exercise/WH-Ch01-Mod01-RefQ01"/>
-      </para>
-    </problem>
-    </exercise>
-    <exercise id="fs-idm255380992">
-    <problem id="fs-idm257711504">
-      <para id="fs-idm259984992">
-    <link class="os-embed" url="#exercise/WH-Ch01-Mod01-RefQ02"/>
-      </para>
-    </problem>
-    </exercise>
-    </section>
-    <section id="fs-idm260362256" class="visual-questions">
-    <title>Visual-Based Questions</title>
-    <exercise id="fs-idm274281120">
-    <problem id="fs-idm274444144">
-      <para id="fs-idm261806336">
-    <link class="os-embed" url="#exercise/WH-Ch01-Mod01-VBQ02"/>
-      </para>
-    </problem>
-    </exercise>
-    <exercise id="fs-idm259234544">
-    <problem id="fs-idm253833456">
-      <para id="fs-idm252222864">
-    <link class="os-embed" url="#exercise/WH-Ch01-Mod01-VBQ03"/>
-      </para>
-    </problem>
-    </exercise>
-    </section>
-    <section id="fs-idm276759200" class="making-connections">
-    <title>Making Connections</title>
-    <exercise id="fs-idm260360064">
-    <problem id="fs-idm265589424">
-      <para id="fs-idm273709136">
-    Compare and contrast the development of totalitarianism/fascism in the USSR, Italy and German.  What was common among them and what was different and why?  </para>
-    </problem>
-    <solution id="fs-idm280131760"><para id="fs-idm260299328">Answers will vary. Here we will present some rubric notes about what should be present in all answers and what would be present in particularly strong answers.</para></solution>
-    </exercise>
-    
-    
-    </section>
-    <section id="fs-idm252785968" class="thought-provokers">
-    <title>Thought Provokers</title>
-    <exercise id="fs-idm283561056">
-    <problem id="fs-idm282841872">
-      <para id="fs-idm253896624">
-    Did the threat of war lead to the build-up of British and German naval forces, or did the build-up of naval forces encourage war to break out?  </para>
-    </problem>
-    <solution id="fs-idm265833552"><para id="fs-idm278862240">Answers will vary. Here we will present some rubric notes about what should be present in all answers and what would be present in particularly strong answers.</para></solution>
-    </exercise>
-    <exercise id="fs-idm277431568">
-    <problem id="fs-idm264999008">
-      <para id="fs-idm259560080">
-    Choose a recent event, something that you have kept up with via news and or social media. It could be something on the grand historical stage, or something from your own life. Based on this event, follow the three steps below.  </para>
-    <list id="fs-idm265165776" list-type="enumerated" number-style="lower-alpha"><item>In an essay format, establish a history of that event. Rank the causes in order of importance and tell the story of the event. You should have three short paragraphs.</item>
-    <item>Now, based on what you have written, write the history again, using one of the major interpretive theories in the chapter (progressive, intellectual, feminist, etc.).  It does not need to be perfect. Focus on imposing a different viewpoint on the same story.</item>
-    <item>Reflect. What did you learn from this exercise?</item></list></problem>
-    <solution id="fs-idm268045408"><para id="fs-idm267826448">Answers will vary. Here we will present some rubric notes about what should be present in all answers and what would be present in particularly strong answers.</para></solution>
-    </exercise>
-    </section>
-    <section id="fs-idm273836800" class="source-questions">
-    <title>Source Questions</title>
-    <exercise id="fs-idm282308256">
-    <problem id="fs-idm255036768">
-      <para id="fs-idm270601984">
-    Read the passage provided. Based on this passage, how does this writer’s experience of the event compare to those presented from other primary sources in this chapter?   </para>
-    <para id="fs-idm251522112">“My most humble duty remembered to you, hoping in god of your good health, as I myself am at the making hereof. This is to let you understand that I you child am in a most heavy case by reason of the country, [which] is such that it causeth much sickness, [such] as the scurvy and the bloody flux and diverse other diseases, which maketh the body very poor and weak. . . . And I have nothing to comfort me, nor is there nothing to be gotten here but sickness and death, except [in the event] that one had money to lay out in some things for profit. . . . [Mr. Jackson] much marvelled that you would send me a servant to the Company; he saith I had been better knocked on the head. And indeed so I find it now, to my great grief and misery; and [I] saith that if you love me you will redeem me suddenly, for which I do entreat and beg. And if you cannot get the merchants to redeem me for some little money, then for God’s sake get a gathering or entreat some good folks to lay out some little sum of money in meal and cheese and butter and beef. Any eating meat will yield great profit.” —Letter from an Indentured Servant to his Parents, 1623</para>
-    </problem>
-    <solution id="fs-idm277061952"><para id="fs-idm250875760">Answers will vary. Here we will present some rubric notes about what should be present in all answers and what would be present in particularly strong answers.</para></solution>
-    </exercise>
-    </section>
-    </content>
-    <glossary>
-      <definition id="fs-idm412212096">
-        <term>Bantu</term>
-        <meaning id="fs-idm414557600">in language, relating to or denoting a group of Niger-Congo languages spoken in Central and Southern Africa, including Swahili, Xhosa, and Zulu</meaning>
-      </definition>
-      <definition id="fs-idm412006912">
-        <term>Bantu Migrations </term>
-        <meaning id="fs-idm415084112">a millennia-long series of migrations of the original proto-Bantu-speaking group, which spread from an original nucleus around West-Central Africa across much of sub-Saharan Africa in the process; the proto-Bantu speaking settlers displaced or absorbed pre-existing hunter-gatherer and pastoralist groups </meaning>
-      </definition>
-      <definition id="fs-idm415433968">
-        <term>hunter-gatherer</term>
-        <meaning id="fs-idm408020000">nomadic person who lives chiefly by hunting and fishing, and harvesting wild food</meaning>
-      </definition>
-      <definition id="fs-idm407491392">
-        <term>Neolithic Revolution </term>
-        <meaning id="fs-idm409852080">marked the transition in human history from small, nomadic bands of hunter-gatherers to larger, agricultural settlements and early civilization.</meaning>
-      </definition>
-    </glossary>
+    <content>
+  <section class="learning-objectives" id="sect-00001">
+  <title>Learning Objectives</title>
+  <para id="para-00001">By the end of this section you will be able to</para>
+  <list id="list-00001" list-type="enumerated" number-style="arabic">
+  <item>Create charts and graphs to appropriately represent data.</item>
+  <item>Interpret visual representations of data.</item>
+  <item>Determine misleading components in data displayed visually.</item>
+  </list>
+  <para id="para-00002">Summarizing raw data is the first step we must take when we want to communicate the results of a study or experiment to a broad audience. However, even organized data can be difficult to read; for example, if a frequency table is large, it can be tough to compare the first row to the last row. As the old saying goes: a picture is worth a thousand words (or, in this case, summary statistics)! Just as our techniques for organizing data depended on the type of data we were looking at, the methods we’ll use for creating visualizations will vary. Let’s start by considering categorical data.</para>
+  </section>
+  <section id="sect-00002"><title>Visualizing Categorical Data</title>
+  <para id="para-00003">If the data we’re visualizing is categorical, then we want a quick way to represent graphically the relative numbers of units that fall in each category. When we created the frequency distributions in the last module, all we did was count the number of units in each category and record that number (this was the <emphasis effect="italics">frequency</emphasis> of that category). Frequencies are nice when we’re organizing and summarizing data; they’re easy to compute, and they’re always whole numbers. But they can be difficult to understand for an outsider who’s being introduced to your data. Let’s consider a quick example. Suppose you surveyed some people and asked for their favorite color. You communicate your results using a frequency distribution. Now Jerry comes along and wants to know about favorite colors, so Jerry reads your frequency distribution. The first row shows that twelve people indicated that green was their favorite color. That’s interesting, but Jerry has no way of knowing if that’s a lot of people without knowing how many people total took your survey. Twelve is a pretty significant number of people if only twenty-five took the survey, but it’s next to nothing if you recorded a thousand responses. For that reason, we will often summarize categorical data not with frequencies, but with <term id="term-00001">proportions</term>.</para>
+  <note id="note-00001" class="definition">
+  <para id="para-00004">The <emphasis effect="bold">proportion</emphasis> of data that fall into a particular category is computed by dividing the frequency for that category by the total number of units in the data. Proportions can be expressed as fractions, decimals, or percentages.</para>
+  </note>
+  <example id="exam-00001"><title>Finding Proportions</title>
+  <exercise id="exer-00001">
+  <problem id="prob-00001">
+  <para id="para-00005">Back in <!--Example 2-->, we considered a teacher who recorded the responses on the first question of a multiple choice quiz, with five possible responses (A, B, C, D, and E):</para>
+  <table class="unnumbered" summary="." id="table-00001">
+  <tgroup cols="3">
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="1*"/>
+  <colspec colnum="3" colname="c3" colwidth="3*"/>
+  <colspec colnum="4" colname="c4" colwidth="3*"/>
+  <colspec colnum="5" colname="c5" colwidth="3*"/>
+  <colspec colnum="6" colname="c6" colwidth="3*"/><tbody>
+  <row>
+  <entry>A</entry>
+  <entry>A</entry>
+  <entry>C</entry>
+  <entry>A</entry>
+  <entry>B</entry>
+  <entry>B</entry>
+  <entry>A</entry>
+  </row>
+  <row>
+  <entry>E</entry>
+  <entry>A</entry>
+  <entry>B</entry>
+  <entry>A</entry>
+  <entry>A</entry>
+  <entry>C</entry>
+  <entry>A</entry>
+  </row>
+  <row>
+  <entry>E</entry>
+  <entry>A</entry>
+  <entry>C</entry>
+  <entry>A</entry>
+  <entry>A</entry>
+  <entry>A</entry>
+  <entry>C</entry>
+  </row>
+  <row>
+  <entry>B</entry>
+  <entry>E</entry>
+  <entry>E</entry>
+  <entry>A</entry>
+  <entry>A</entry>
+  <entry>C</entry>
+  <entry>C</entry>
+  </row>
+  </tbody>
+  </tgroup>
+  </table><para id="para-00006">We computed a frequency distribution that looked like this:</para>
+  <table class="unnumbered" summary="." id="table-00002"><tgroup cols="2">
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="3*"/>
+  <thead><row>
+  <entry>Response on Question 1</entry>
+  <entry>Frequency</entry>
+  </row>
+  </thead><tbody>
+  <row>
+  <entry>A</entry>
+  <entry>14</entry>
+  </row>
+  <row>
+  <entry>B</entry>
+  <entry>4</entry>
+  </row>
+  <row>
+  <entry>C</entry>
+  <entry>6</entry>
+  </row>
+  <row>
+  <entry>D</entry>
+  <entry>0</entry>
+  </row>
+  <row>
+  <entry>E</entry>
+  <entry>4</entry>
+  </row>
+  </tbody></tgroup></table>
+  <para id="para-00007">Compute the proportions for each category.</para>
+  </problem>
+  <solution id="sol-00001">
+  <para id="para-00008">Step 1 – In order to compute a proportion, we need the frequency (which we have in the table above) and the total number of units that are represented in our data. We can find that by adding up the frequencies from all the categories: <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mn>14</mn><mo>+</mo><mn>4</mn><mo>+</mo><mn>6</mn><mo>+</mo><mn>0</mn><mo>+</mo><mn>4</mn><mo>=</mo><mn>28</mn></mrow></math>.</para>
+  <para id="para-00009" xmlns="http://cnx.rice.edu/cnxml">Step 2 – To find the proportions, we divide the frequency by the total. For the first category (“A”), the proportion is <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mn>14</mn></mrow><mrow><mn>28</mn></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>=</mo><mn>0.5</mn><mo>=</mo><mn>50</mn><mi>%</mi><mo>.</mo></mrow></math> We can compute the other proportions similarly, filling in the rest of the table:
+  <table class="unnumbered" summary="." id="table-00003" xmlns="http://cnx.rice.edu/cnxml">
+  <tgroup cols="3">
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="3*"/>
+  <colspec colnum="3" colname="c3" colwidth="3*"/>
+  <thead><row>
+  <entry>Response on Question 1</entry>
+  <entry>Frequency</entry>
+  <entry>Proportion</entry>
+  </row></thead>
+  <tbody>
+  <row>
+  <entry>A</entry>
+  <entry>14</entry>
+  <entry><equation id="eq-00003"><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>14</mn><mn>28</mn></mfrac><mo>=</mo><mn>50</mn><mo>%</mo></mrow></math></equation></entry>
+  </row>
+  <row xmlns="http://cnx.rice.edu/cnxml">
+  <entry>B</entry>
+  <entry>4</entry>
+  <entry><equation id="eq-00005"><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>4</mn><mn>28</mn></mfrac><mo>=</mo><mn>14.3</mn><mo>%</mo></mrow></math></equation></entry>
+  </row>
+  <row xmlns="http://cnx.rice.edu/cnxml">
+  <entry>C</entry>
+  <entry>6</entry>
+  <entry><equation id="eq-00007"><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>6</mn><mn>28</mn></mfrac><mo>=</mo><mn>21.4</mn><mo>%</mo></mrow></math></equation></entry>
+  </row>
+  <row xmlns="http://cnx.rice.edu/cnxml">
+  <entry>D</entry>
+  <entry>0</entry>
+  <entry><equation id="eq-00008"><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>0</mn><mn>28</mn></mfrac><mo>=</mo><mn>0</mn><mo>%</mo></mrow></math></equation></entry>
+  </row>
+  <row xmlns="http://cnx.rice.edu/cnxml">
+  <entry>E</entry>
+  <entry>4</entry>
+  <entry><equation id="eq-00009"><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>4</mn><mn>28</mn></mfrac><mo>=</mo><mn>14.3</mn><mo>%</mo></mrow></math></equation></entry>
+  </row>
+  </tbody>
+  </tgroup></table></para>
+  <para id="para-00010" xmlns="http://cnx.rice.edu/cnxml">Step 3 – Check your work: If you add up your proportions, you should get 1 (if you’re using fractions or decimals) or 100% (if you’re using percentages). In this case, <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mn>50</mn><mi>%</mi><mo>+</mo><mn>14.3</mn><mi>%</mi><mo>+</mo><mn>21.4</mn><mi>%</mi><mo>+</mo><mn>0</mn><mi>%</mi><mo>+</mo><mn>14.3</mn><mi>%</mi><mo>=</mo><mn>100</mn><mi>%</mi><mo>.</mo></mrow></math></para>
+  </solution>
+  </exercise>
+  <note class="check-point" id="note-00002" xmlns="http://cnx.rice.edu/cnxml">
+  <para id="para-00011"><emphasis effect="italics">If you need to round off the results of the computations to get your percentages or decimals, then the sum might not be exactly equal to 1 or 100% in the end due to that rounding error.</emphasis></para>
+  </note>
+  </example>
+  <note class="your-turn" id="note-00003">
+  <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00012"><link class="os-embed" url="#exercise/CM-C08-M2-Q001"/></para></problem>
+  </exercise>
+  </note>
+  <para id="para-00016">Now that we can compute proportions, let’s turn to visualizations. There are two primary visualizations that we’ll use for categorical data: bar charts and pie charts. Both of these data representations work on the same principle: if proportions are represented as areas, then it’s easy to compare two proportions by assessing the corresponding areas. Let’s look at bar charts first.</para>
+  <section id="sect-00003"><title>Bar Charts</title>
+  <para id="para-00017">A <term id="term-00002">bar chart</term> is a visualization of categorical data that consists of a series of rectangles arranged side-by-side (but not touching). Each rectangle corresponds to one of the categories. All of the rectangles have the same width. The height of each rectangle corresponds to either the number of units in the corresponding category or the proportion of the total units that fall into the category.</para>
+  <note class="definition" id="note-00004">
+  <para id="para-00018">A <emphasis effect="bold">bar chart</emphasis> is a visualization of categorical data that consists of a series of rectangles arranged side-by-side (but not touching).</para>
+  </note>
+ <example id="exam-00002"><title>Building a Bar Chart</title>
+  <exercise id="exer-00003">
+  <problem id="prob-00003">
+  <para id="para-00019">In <link target-id="exam-00001" document="m00003"/><!--Example 5--> we computed the following proportions:
+          <table class="unnumbered" frame="none" summary="." id="table-00007">
+  <tgroup cols="3">
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="1*"/>
+  <colspec colnum="3" colname="c3" colwidth="3*"/>
+  <thead>
+  <row><entry><emphasis effect="bold">Response on Question 1</emphasis></entry>
+  <entry><emphasis effect="bold">Frequency</emphasis></entry>
+  <entry><emphasis effect="bold">Proportion</emphasis></entry></row>
+  </thead>
+  <tbody>
+  <row><entry>A</entry>
+  <entry>14</entry>
+  <entry>50%</entry></row>
+  <row><entry>B</entry>
+  <entry>4</entry>
+  <entry>14.3%</entry></row>
+  <row><entry>C</entry>
+  <entry>6</entry>
+  <entry>21.4%</entry></row>
+  <row><entry>D</entry>
+  <entry>0</entry>
+  <entry>0%</entry></row>
+  <row><entry>E</entry>
+  <entry>4</entry>
+  <entry>14.3%</entry></row></tbody>
+  </tgroup>
+  </table>
+            Draw a bar chart to visualize this frequency distribution.</para>
+  </problem>  
+          <solution id="sol-00003">
+  <para id="para-00020">To start, we’ll draw axes with the origin (the point where the axes meet) at the bottom left:
+          </para>
+  <para id="para-00022">Now, we have a decision to make: Will we use frequencies to define the height of our rectangles, or will we use proportions? Let’s try it both ways. First, let’s use frequencies. Notice that our frequencies run from zero to 14; this will correspond to the scale we put on the vertical axis. If we put a tick mark for every whole number between 0 and 14, the result will be pretty crowded; let’s instead put a mark on the multiples of 3 or 5:
+         </para>
+  <para id="para-00023">Now, let’s draw in the first rectangle. The frequency associated with “A” is 14. So we’ll go to 14 on the vertical axis, and place a mark at that height above the “A” label:
+          </para>
+  <para id="para-00024">Then, draw vertical lines straight down from the edges of your mark to make a rectangle:
+          </para>
+  <para id="para-00025">Finally, we can build the rest of the rectangles, making sure that the bases all have the same length and the rectangles don’t touch. Notice that, since the frequency for “D” is zero, that category has no rectangle (but we’ll leave a space there so the reader can see that there is a category with frequency zero). Here’s the result:
+          </para>
+  <para id="para-00026">That’s it! Now, let’s use proportions instead of frequencies. We'll label the vertical axis with evenly-spaced numbers that run the full range of the percentages in our table: 0% to 50%. We can divide that into five equal parts (so that each has width 10%), and use that to label our vertical axis:
+          </para>
+  <para id="para-00027">Then, we can fill in the rectangles just as we did before. The height of the “A” rectangle is 50%, the “B” rectangle goes up to 14.3%, “C” goes to 21.4%, there is no rectangle for “D” (since its proportion is 0%), and the “E” rectangle also goes up to 14.3%:
+         </para>
+  <para id="para-00028">Notice that the rectangles are basically identical in our two final bar charts. That’s no coincidence! Bar charts that use proportions and those that use frequencies will always look identical (which is why it doesn’t really matter much which option you choose). Here’s why: look at the bars for “B” and “C”. The frequencies for these are 4 and 6 respectively. Notice that 6 is 50% bigger than 4 (since <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mn>6</mn><mo>=</mo><mn>1.5</mn><mo>×</mo><mn>4</mn></mrow></math>), which means that the “C” bar will be 50% higher than the “B” bar. Now look at the same bars using proportions: since <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mn>21.4</mn><mi>%</mi><mo>=</mo><mn>1.5</mn><mo>×</mo><mn>14.3</mn><mi>%</mi></mrow></math>, the bar for “C” will be 50% higher than the bar for “B.” The same relationships hold for the other bars, too.
+  </para>
+  </solution>
+  </exercise>
+  </example>
+  <note class="your-turn" id="note-00005" xmlns="http://cnx.rice.edu/cnxml">
+  <exercise id="exer-00004">
+  <problem id="prob-00004">
+  <para id="para-00029"><link class="os-embed" url="#exercise/CM-C08-M2-Q002"/></para>
+  </problem>
+  </exercise>
+  </note>
+  <para id="para-00030">In practice, most graphs are now made with computers. This video shows you how to make a bar graph using Google Sheets, which is available for free from any web browser at <emphasis effect="underscore"><link url="https://openstax.org/r/spreadsheet">https://openstax.org/r/spreadsheet</link></emphasis>.</para>
+  <note class="video" id="note-00028">        
+  <para id="para-00031"><emphasis effect="bold"><link url="https://openstax.org/r/Google_Sheet">Creating Bar Graphs Using Google Sheets</link></emphasis></para>
+  </note>
+  <para id="para-00032">Now that we’ve explored how bar graphs are made, let’s get some practice reading bar graphs.</para>
+  <example id="exam-00003"><title>Reading Bar Graphs</title>
+  <exercise id="exer-00005">
+  <problem id="prob-00005"><para id="para-00033">The bar graph shown gives data on 2020 model year cars available in the United States. Analyze the graph to answer the following questions.</para>
+ 
+  <para id="para-00034"><list list-type="enumerated" number-style="arabic" id="list-00002">
+  <item>What proportion of available cars were sports cars?</item>
+  <item>What proportion of available cars were sedans?</item>
+  <item>Which categories of cars each made up less than 5% of the models available?</item>
+  </list></para></problem>
+  <solution id="sol-00005">
+  <para id="para-00035"><list list-type="enumerated" number-style="arabic" id="list-00003">
+  <item>The bar for sports cars goes up to 10%, so the proportion of models that are considered sports cars is 10%.</item>
+  <item>The bar corresponding to sedan goes up past 30% but not quite to 35%. It looks like the proportion we want is between 33% and 34%.</item>
+  <item>We’re looking for the bars that don’t make it all the way to the 5% line. Those categories are hatchback and wagon.</item>
+  </list></para>
+  </solution>
+  </exercise>
+  </example>
+  <note class="your-turn" id="note-00006">
+  <exercise id="exer-00006">
+  <problem id="prob-00006"><para id="para-00036"><link class="os-embed" url="#exercise/CM-C08-M2-Q003"/></para>
+  </problem>
+  </exercise>
+  </note>
+  <note class="work-out" id="note-00007">
+  <para id="para-00041">M&amp;Ms, Skittles, and Reese’s Pieces are all candies that have pieces that are uniformly shaped, but which have different colors. Do the colors in each bag appear with the same frequency? Get a bag of one of those candies and make a bar chart to visualize the color distribution.</para>
+  </note>
+  </section>
+  <section id="sect-00004">
+  <title>Pie Charts</title>
+  <para id="para-00042">Let’s turn now to pie charts. A <term id="term-00003">pie chart</term> consists of a circle divided into wedges, with each wedge corresponding to a category. The proportion of the area of the entire circle that each wedge represents corresponds to the proportion of the data in that category. Pie charts are difficult to make by hand because they require careful measurements of angles and precise circles, both of which are tasks better left to computers. Here’s a video that explains how pie charts are created in Google Sheets:</para>
+  <note class="video" id="note-00008">
+  <para id="para-00043"><emphasis effect="bold"><link url="https://openstax.org/r/Creating Pie Chart">Creating Pie Charts Using Google Sheets</link></emphasis></para>
+  </note>
+  <note class="definition" id="note-00009">
+  <para id="para-00044">A <emphasis effect="bold">pie chart</emphasis> is a visualization of categorical data that consists of a circle divided into wedges, with each wedge corresponding to a category.</para>
+  </note>
+  <para id="para-00045">Pie charts are sometimes embellished with features like labels in the slices (which might be the categories, the frequencies in each category, or the proportions in each category) or a legend that explains which colors correspond to which categories. When making your own pie chart, you can decide which of those to include. The only rule is that there has to be some way to connect the slices to the categories (either through labels or a legend).</para>
+  <example id="exam-00004"><title>Making Pie Charts</title>
+  <exercise id="exer-00007">
+  <problem id="prob-00007"><para id="para-00046">Use the data that follows to generate a pie chart.</para>
+  <table class="unnumbered" frame="none" id="table-00009" summary=".">
+  <tgroup cols="2">
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="3*"/>
+  <thead>
+  <row><entry>Type</entry>
+  <entry>Percent</entry></row>
+  </thead>
+  <tbody>
+  <row><entry>SUV</entry>
+  <entry>43.6%</entry></row>
+  <row><entry>Sedan</entry>
+  <entry>33.6%</entry></row>
+  <row><entry>Sports</entry>
+  <entry>10.0%</entry></row>
+  <row><entry>Minivan</entry>
+  <entry>5.5%</entry></row>
+  <row><entry>Hatchback</entry>
+  <entry>3.6%</entry></row>
+  <row><entry>Wagon</entry>
+  <entry>3.6%</entry></row>
+  </tbody>
+  </tgroup>
+  </table>
+  </problem>
+  <solution id="sol-00007">
+  <para id="para-00047">First, enter the chart above into a new sheet in Google Sheets. Next, click and drag to select the full table (including the header row). Click on the “Insert” menu, then select “Chart.” The result may be a pie chart by default; if it isn’t, you can change it to a pie chart using the “Chart type” drop-down menu in the Chart Editor.</para>
+
+  <para id="para-00048">I chose to use a legend to identify the categories, as well as label the slices with the relevant percentages.</para>
+  </solution>
+  </exercise>
+  </example>
+  <note class="your-turn" id="note-00010">
+  <exercise id="exer-00008">
+  <problem id="prob-00008"><para id="para-00049"><link class="os-embed" url="#exercise/CM-C08-M2-Q004"/></para>
+  </problem>
+  </exercise>
+  </note>
+  <note class="people-mathematics" id="note-00011">
+  <title>Florence Nightingale</title>
+  <para id="para-00051">Florence Nightingale (1820-1910) is best remembered today for her contributions in the medical field; after witnessing the horrors of field hospitals that tended to the wounded during the Crimean War, she championed reforms that encouraged sanitary conditions in hospitals. For those efforts, she is today considered the founder of modern nursing.</para>
+  
+  <para id="para-00052">Nightingale is also remembered for her contributions in statistics, especially in the ways we visualize data. She developed a version of the pie chart that is today known as a <emphasis effect="italic">polar area diagram</emphasis>, which she used to visualize the causes of death among the soldiers in the war, highlighting the number of preventable deaths the British Army suffered in that conflict.</para>
+  <para id="para-00053">In 1859, the Royal Statistical Society honored her for her contributions to the discipline by electing her to join the organization. She was the first woman to be so honored. She was later named an honorary member of the American Statistical Association.</para>
+  </note>
+  </section>
+  </section>
+  <section id="sect-00005">
+  <title>Visualizing Quantitative Data</title>
+  <para id="para-00054">There are a several good ways to visualize quantitative data. In this section, we’ll talk about two types: stem-and-leaf plots and histograms.</para>
+  <section id="sect-00006">
+  <title>Stem-and-Leaf Plots</title>
+  <para id="para-00055"><term id="term-00004">Stem-and-leaf plots</term> are visualization tools that fall somewhere between a list of all the raw data and a graph. A stem-and-leaf plot consists of a list of stems on the left and the corresponding leaves on the right, separated by a line. The stems are the numbers that make up the data only up to the next-to-last digit, and the leaves are the final digits. There is one leaf for every data value (which means that leaves may be repeated), and the leaves should be evenly-spaced across all stems. These plots are really nothing more than a fancy way of listing out all the raw data; as a result, they shouldn’t be used to visualize large datasets.</para>
+  <note class="definition" id="note-00012">
+  <para id="para-00056">A <emphasis effect="bold">stem-and-leaf plot</emphasis> is a visualization of quantitative data in which the "stems" are the numbers that make up the data only up to the next-to-last digit, and the "leaves" are the last digits.</para>
+  </note>
+  <para id="para-00057">This concept can be difficult to understand without referencing an example, so let’s first look at how to read a stem-and-leaf plot.</para>
+  <example id="exam-00005"><title>Reading a Stem-and-Leaf Plot</title>
+  <exercise id="exer-00009">
+  <problem id="prob-00009"><para id="para-00058">A collector of trading cards records the sale prices (in dollars) of a particular card on an online auction site, and puts the results in a stem-and-leaf plot:
+  <table class="unnumbered" frame="none" id="table-00011" summary=".">
+  <tgroup cols="2">
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="2*"/>
+  <tbody>
+  <row><entry>0</entry>
+  <entry>5 8 9</entry>
+  </row>
+  <row><entry>1</entry>
+  <entry>0 0 0 3 4 4 5 5 5 5 6 9 9</entry></row>
+  <row><entry>2</entry>
+  <entry>0 0 0 0 5 5 9 9</entry>
+  </row>
+  <row><entry>3</entry>
+  <entry>0 0 0 5 5</entry>
+  </row>
+  <row><entry>4</entry>
+  <entry>0 0 5</entry>
+  </row>
+  <row><entry>5</entry>
+  </row>
+  <row><entry>6</entry>
+  <entry>0</entry>
+  </row></tbody>
+  </tgroup>
+  </table></para>
+  <para id="para-00059">Answer the following questions about the data:</para>
+  <list list-type="enumerated" number-style="arabic" id="list-00006">
+  <item>How many prices are represented?</item>
+  <item>What prices represent the five most expensive cards? The five least expensive?</item>
+  <item>What is the full set of data?</item>
+  </list>
+  </problem>
+  <solution id="sol-00009">
+  <para id="para-00060"><list list-type="enumerated" number-style="arabic" id="list-00007">
+  <item>Each leaf (the numbers on the right side of the bar) represents one data value. So, on the first row (which looks like 0 | 5 8 9), there are three data values (one for each leaf: 5, 8, and 9). The next row has thirteen leaves, then eight, five, three, zero, and one. Adding those up, we get <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mn>3</mn><mo>+</mo><mn>13</mn><mo>+</mo><mn>8</mn><mo>+</mo><mn>5</mn><mo>+</mo><mn>3</mn><mo>+</mo><mn>0</mn><mo>+</mo><mn>1</mn><mo>=</mo><mn>33</mn></mrow></math> data points or prices.</item>
+  <item xmlns="http://cnx.rice.edu/cnxml">The most expensive card is the last one listed. Its stem is 6 and its leaf is 0, so the price is $60. There are no leaves associated with the 5 stem, so there were no cards sold for $50 to $59. The next most expensive cards are then on the 4 stem: $45, $40, and $40 (remember, repeated leaves mean repeated values in the data set). So, we have our four most expensive cards. The fifth would be on the next stem up. The biggest leaf on the 3 stem is a 5, so the fifth-most expensive card sold for $35. As for the five least-expensive cards, the smallest stem is 0, with leaves 5, 8, and 9. So, the three least expensive cards sold for $5, $8, and $9 (notice that we don’t write down that leading 0 from the stem in the tens place). The next two least-expensive cards will be the two smallest leaves on the next stem: $10 and $10.</item>
+  <item>The full list of data is: 5, 8, 9, 10, 10, 10, 13, 14, 14, 15, 15, 15, 15, 16, 19, 19, 20, 20, 20, 24, 25, 25, 29, 29, 30, 30, 30, 35, 35, 40, 40, 45, 60.</item>
+  </list></para>
+  </solution>
+  </exercise>
+  </example>
+  <note class="your-turn" id="note-00013">
+  <exercise id="exer-00010">
+  <problem id="prob-00010"><para id="para-00061"><link class="os-embed" url="#exercise/CM-C08-M2-Q005"/></para>
+  </problem>
+  </exercise>
+  </note>
+  <para id="para-00062">Stem-and-leaf plots are useful in that they give us a sense of the shape of the data. Are the data evenly spread out over the stems, or are some stems “heavier” with leaves? Are the heavy stems on the low side, the high side, or somewhere in the middle? These are questions about the <term id="term-00005">distribution</term> of the data, or how the data are spread out over the range of possible values. Some words we use to describe distributions are <emphasis effect="italic">uniform</emphasis> (data are equally distributed across the range), <emphasis effect="italic">symmetric</emphasis> (data are bunched up in the middle, then taper off in the same way above and below the middle), <emphasis effect="italic">left-skewed</emphasis> (data are bunched up at the high end, and taper off toward the low end), and <emphasis effect="italic">right-skewed</emphasis> (data are bunched up at the low end, and taper off toward the high end).</para>
+  <note class="definition" id="note-00014">
+  <para id="para-00063">The <emphasis effect="bold">distribution</emphasis> of quantitative data describes how the data are spread out over its range.</para>
+  </note>
+  <para id="para-00064">Looking back at the stem-and-leaf plot in Example 9, we can see that the data are bunched up at the low end and taper off toward the high end; that set of data is right-skewed. Knowing the distribution of a set of data gives us useful information about the property that the data are measuring.</para>
+  <para id="para-00065">Now that we have a better idea of how to read a stem-and-leaf plot, we’re ready to create our own.</para>
+  <example id="exam-00006"><title>Constructing a Stem-and-Leaf Plot</title>
+  <exercise id="exer-00011">
+  <problem id="prob-00011"><para id="para-00066">An entomologist studying crickets recorded the number of times different crickets (of differing species, genders, etc.) chirped in a one-minute span. Here are the raw data:</para>
+  <table class="unnumbered" frame="none" id="table-00013" summary=".">
+  <tgroup cols="6">
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="1*"/>
+  <colspec colnum="3" colname="c3" colwidth="1*"/>
+  <colspec colnum="4" colname="c4" colwidth="1*"/>
+  <colspec colnum="5" colname="c5" colwidth="1*"/>
+  <colspec colnum="6" colname="c6" colwidth="1*"/>
+  <tbody>
+  <row><entry>89</entry>
+  <entry>97</entry>
+  <entry>82</entry>
+  <entry>102</entry>
+  <entry>84</entry>
+  <entry>99</entry></row>
+  <row><entry>115</entry>
+  <entry>105</entry>
+  <entry>89</entry>
+  <entry>109</entry>
+  <entry>107</entry>
+  <entry>89</entry></row>
+  <row><entry>101</entry>
+  <entry>109</entry>
+  <entry>116</entry>
+  <entry>103</entry>
+  <entry>100</entry>
+  <entry>91</entry></row>
+  <row><entry>93</entry>
+  <entry>103</entry>
+  <entry>120</entry>
+  <entry>91</entry>
+  <entry>85</entry>
+  <entry>104</entry></row>
+  <row><entry>104</entry>
+  <entry>82</entry>
+  <entry>106</entry>
+  <entry>92</entry>
+  <entry>104</entry>
+  <entry>106</entry></row></tbody>
+  </tgroup>
+  </table>
+  <para id="para-00067">Construct a stem-and-leaf plot to visualize these results.</para>
+  </problem>
+  <solution id="sol-00011">
+  <para id="para-00068">Step 1: Before we can create the plot, we need to sort the data in order from smallest to largest:</para>
+  <table class="unnumbered" frame="none" id="table-00014" summary=".">
+  <tgroup cols="6">
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="1*"/>
+  <colspec colnum="3" colname="c3" colwidth="1*"/>
+  <colspec colnum="4" colname="c4" colwidth="1*"/>
+  <colspec colnum="5" colname="c5" colwidth="1*"/>
+  <colspec colnum="6" colname="c6" colwidth="1*"/>
+  <tbody>
+  <row><entry>82</entry>
+  <entry>82</entry>
+  <entry>84</entry>
+  <entry>85</entry>
+  <entry>89</entry>
+  <entry>89</entry></row>
+  <row><entry>89</entry>
+  <entry>91</entry>
+  <entry>91</entry>
+  <entry>92</entry>
+  <entry>93</entry>
+  <entry>97</entry></row>
+  <row><entry>99</entry>
+  <entry>100</entry>
+  <entry>101</entry>
+  <entry>102</entry>
+  <entry>103</entry>
+  <entry>103</entry></row>
+  <row><entry>104</entry>
+  <entry>104</entry>
+  <entry>104</entry>
+  <entry>105</entry>
+  <entry>106</entry>
+  <entry>106</entry></row>
+  <row><entry>107</entry>
+  <entry>109</entry>
+  <entry>109</entry>
+  <entry>115</entry>
+  <entry>116</entry>
+  <entry>120</entry></row></tbody>
+  </tgroup>
+  </table>
+  <para id="para-00069">Step 2: Next, we identify the stems. To do that, we cut off the final digit of each number, which leaves us with stems of 8, 9, 10, 11, and 12. Arrange the stems vertically, and add the bar to separate these from the leaves:</para>
+  <table class="unnumbered" frame="none" id="table-00015" summary=".">
+  <tgroup cols="1">
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+  <tbody>
+  <row><entry>8</entry></row>
+  <row><entry>9</entry></row>
+  <row><entry>10</entry></row>
+  <row><entry>11</entry></row>
+  <row><entry>12</entry></row></tbody>
+  </tgroup>
+  </table>
+  <para id="para-00070">Step 3: Write down the leaves on the right side of the bar, giving just the final digit (that we cut off to make the stems) of each data value. List these in order, and make sure they line up vertically:</para>
+  <table class="unnumbered" frame="none" id="table-00016" summary=".">
+  <tgroup cols="2">
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="1*"/>
+  <!--<colspec colnum="3" colname="c3" colwidth="1*"/>
+  <colspec colnum="4" colname="c4" colwidth="1*"/>
+  <colspec colnum="5" colname="c5" colwidth="1*"/>
+  <colspec colnum="6" colname="c6" colwidth="1*"/>
+  <colspec colnum="7" colname="c7" colwidth="1*"/>
+  <colspec colnum="8" colname="c8" colwidth="1*"/>
+  <colspec colnum="9" colname="c9" colwidth="1*"/>
+  <colspec colnum="10" colname="c10" colwidth="1*"/>
+  <colspec colnum="11" colname="c11" colwidth="1*"/>
+  <colspec colnum="12" colname="c12" colwidth="1*"/>
+  <colspec colnum="13" colname="c13" colwidth="1*"/>
+  <colspec colnum="14" colname="c14" colwidth="1*"/>
+  <colspec colnum="15" colname="c15" colwidth="1*"/>-->
+  <tbody>
+  <row><entry>8</entry>
+  <entry>2 2 4 5 9 9 9</entry>
+  </row>
+  <row><entry>9</entry>
+  <entry>1 1 2 3 7 9</entry>
+  </row>
+  <row><entry>10</entry>
+  <entry>0 1 2 3 3 4 4 4 5 6 6 7 9 9</entry></row>
+  <row><entry>11</entry>
+  <entry>5 6</entry>
+  </row>
+  <row><entry>12</entry>
+  <entry>0</entry>
+  </row></tbody>
+  </tgroup>
+  </table>
+  </solution>
+  </exercise>
+  </example>
+  <note class="your-turn" id="note-00015">
+  <exercise id="exer-00012">
+  <problem id="prob-00012"><para id="para-00071"><link class="os-embed" url="#exercise/CM-C08-M2-Q006"/></para>
+  </problem>
+  </exercise>
+  </note>
+  <para id="para-00073">As we mentioned above, stem-and-leaf plots aren’t always going to be useful. For example, if all the data in your data set are between 20 and 29, then you’ll just have one stem, which isn’t terribly useful. (Although there are methods like <emphasis effect="italic">stem splitting</emphasis>for addressing that particular problem, we won’t go into those at this time.) On the other end of the spectrum, the data may be so spread out that every stem has only one leaf. (This problem can sometimes be addressed by rounding off the data values to the tens, hundreds, or some other place value, then using that place for the leaves.) Finally, if you have dozens or hundreds (or more) of data values, then a stem-and-leaf plot becomes too unwieldy to be useful. Fortunately, we have other tools we can use.</para>
+  </section>
+  <section id="sect-00007">
+  <title>Histograms</title>
+  <para id="para-00074"><term id="term-00006">Histograms</term> are visualizations that can be used for any set of quantitative data, no matter how big or spread out. They differ from a categorical bar chart in that the horizontal axis is labeled with numbers (not ranges of numbers), and the bars are drawn so that they touch each other. The heights of the bars reflect the frequencies in each bin. Unlike with stem-and-leaf plots, we cannot recreate the original data set from a histogram. However, histograms are easy to make with technology and are great for identifying the distribution of our data. Let’s first create one histogram by hand to help us better understand how histograms work.</para>
+  <note class="definition" id="note-00016">
+  <para id="para-00075">A <emphasis effect="bold">histogram</emphasis> is a type of bar chart for quantitative data built using a binned frequency distribution.</para>
+  </note>
+  <example id="exam-00007"><title>Constructing a Histogram </title>
+  <exercise id="exer-00013">
+  <problem id="prob-00013"><para id="para-00076">Back in Example 10, we built a stem-and-leaf plot for the number of chirps made by crickets in one minute. Here are the raw data that we used then:</para>
+  <table class="unnumbered" frame="none" id="table-00019" summary=".">
+  <tgroup cols="6">
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="1*"/>
+  <colspec colnum="3" colname="c3" colwidth="1*"/>
+  <colspec colnum="4" colname="c4" colwidth="1*"/>
+  <colspec colnum="5" colname="c5" colwidth="1*"/>
+  <colspec colnum="6" colname="c6" colwidth="1*"/>
+  <tbody>
+  <row><entry>89</entry>
+  <entry>97</entry>
+  <entry>82</entry>
+  <entry>102</entry>
+  <entry>84</entry>
+  <entry>99</entry></row>
+  <row><entry>115</entry>
+  <entry>105</entry>
+  <entry>89</entry>
+  <entry>109</entry>
+  <entry>107</entry>
+  <entry>89</entry></row>
+  <row><entry>101</entry>
+  <entry>109</entry>
+  <entry>116</entry>
+  <entry>103</entry>
+  <entry>100</entry>
+  <entry>91</entry></row>
+  <row><entry>93</entry>
+  <entry>103</entry>
+  <entry>120</entry>
+  <entry>91</entry>
+  <entry>85</entry>
+  <entry>104</entry></row>
+  <row><entry>104</entry>
+  <entry>82</entry>
+  <entry>106</entry>
+  <entry>92</entry>
+  <entry>104</entry>
+  <entry>106</entry></row></tbody>
+  </tgroup>
+  </table>
+  <para id="para-00077">Construct a histogram to visualize these results.</para>
+  </problem>
+  <solution id="sol-00013">
+  <para id="para-00078">Step 1 – Histograms are built on binned frequency distributions, so we’ll make that first. Luckily, the stem-and-leaf plot we made earlier can help us do this much more quickly:</para>
+  <table class="unnumbered" frame="none" id="table-00020" summary=".">
+  <tgroup cols="15">
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="1*"/>
+  <!--<colspec colnum="3" colname="c3" colwidth="1*"/>
+  <colspec colnum="4" colname="c4" colwidth="1*"/>
+  <colspec colnum="5" colname="c5" colwidth="1*"/>
+  <colspec colnum="6" colname="c6" colwidth="1*"/>
+  <colspec colnum="7" colname="c7" colwidth="1*"/>
+  <colspec colnum="8" colname="c8" colwidth="1*"/>
+  <colspec colnum="9" colname="c9" colwidth="1*"/>
+  <colspec colnum="10" colname="c10" colwidth="1*"/>
+  <colspec colnum="11" colname="c11" colwidth="1*"/>
+  <colspec colnum="12" colname="c12" colwidth="1*"/>
+  <colspec colnum="13" colname="c13" colwidth="1*"/>
+  <colspec colnum="14" colname="c14" colwidth="1*"/>
+  <colspec colnum="15" colname="c15" colwidth="1*"/>-->
+  <tbody>
+  <row><entry>8</entry>
+  <entry>2 2 4 5 9 9 9</entry>
+  </row>
+  <row><entry>9</entry>
+  <entry>1 1 2 3 7 9</entry>
+  </row>
+  <row><entry>10</entry>
+  <entry>0 1 2 3 3 4 4 4 5 6 6 7 9 9</entry></row>
+  <row><entry>11</entry>
+  <entry>5 6</entry>
+  </row>
+  <row><entry>12</entry>
+  <entry>0</entry>
+  </row></tbody>
+  </tgroup>
+  </table>
+  <para id="para-00079">If we’re using bins of width 10, we can compute the frequencies by counting the numbers of leaves associated with the corresponding stem:</para>
+  <table class="unnumbered" frame="none" id="table-00021" summary=".">
+  <tgroup cols="2">
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="1*"/>
+  <thead>
+  <row><entry>Bin</entry>
+  <entry>Frequency</entry></row>
+  </thead>
+  <tbody>
+  <row><entry>80-89</entry>
+  <entry>7</entry></row>
+  <row><entry>90-99</entry>
+  <entry>6</entry></row>
+  <row><entry>100-109</entry>
+  <entry>14</entry></row>
+  <row><entry>110-119</entry>
+  <entry>2</entry></row>
+  <row><entry>120-129</entry>
+  <entry>1</entry></row></tbody>
+  </tgroup>
+  </table>
+  <para id="para-00080">(Note that, when we made binned frequency diagrams in the last module, we noted that if the biggest data value was right on the border between two bins, it was OK to lump it in with the lower bin. That’s not recommended when building histograms, so the data value 120 is all alone in the 120-129 bin.)</para>
+  <para id="para-00081">Step 2 – Create the axes. On the horizontal axis, start labeling with the lower end of the first bin (in this case, 80), and go up to the higher end of the last bin (120). Mark off the other bin boundaries, making sure they’re all evenly spaced. On the vertical axis, start with zero and go up at least to the greatest frequency you see in your bins (14 in this example), making sure that the labels you make are evenly spaced and that the difference between those numbers is the same. Let’s count off our vertical axis by threes:</para>
+ 
+  <para id="para-00082">Step 3 – Draw in the bars. Remember that the bars of a histogram touch, and that the heights are determined by the frequency. So, the first bar will cover 80 to 90 on the horizontal axis, and have a height of 7:</para>
+
+  <para id="para-00083">Now, we can fill in the others:</para>
+
+  <para id="para-00084">Now let's compare the histogram we just created to the stem-and-leaf plot we made earlier:</para>
+
+  <para id="para-00085">Notice that the leaves on the rotated stem-and-leaf plot match the bars on our histogram! We can view stem-and-leaf plots as sideways histograms. But, as we’ll see soon, we can do much more with histograms.</para>
+  </solution>
+  </exercise>
+  </example>
+  <note class="your-turn" id="note-00017">
+  <exercise id="exer-00014">
+  <problem id="prob-00014"><para id="para-00086"><link class="os-embed" url="#exercise/CM-C08-M2-Q007"/></para>
+  </problem>
+  </exercise>
+  </note>
+  <para id="para-00088">Now that we’ve seen the connection between stem-and-leaf plots and histograms, we are ready to look at how we can use Google Sheets to build histograms.</para>
+  <note class="video" id="note-00026"><para id="para-00124"><emphasis effect="bold"><link url="https://openstax.org/r/CreatingHistograms">Creating Histograms Using Google Sheets</link></emphasis></para></note>
+  <para id="para-00089">Let’s use Google Sheets to create a histogram for a large data set.</para>
+  <example id="exam-00008"><title>Creating a Histogram in Google Sheets</title>
+  <exercise id="exer-00015">
+  <problem id="prob-00015"><para id="para-00090">The data in “AvgSAT” contains the average SAT score for students attending every institution of higher learning in the US for which data is available (data from data.ed.gov). Create a histogram in Google Sheets of the average SAT scores. Use bins of width 50. Are the data uniformly distributed, symmetric, left-skewed, or right-skewed?</para>
+  </problem>
+  <solution id="sol-00015">
+  <para id="para-00091">Using the procedure described in the video above, we get this:</para>
+
+  <para id="para-00092">The data are fairly symmetric, but slightly right-skewed.</para>
+  </solution>
+  </exercise>
+  </example>
+  <note class="your-turn" id="note-00018">
+  <exercise id="exer-00016">
+  <problem id="prob-00016"><para id="para-00093"><link class="os-embed" url="#exercise/CM-C08-M2-Q008"/></para>
+  </problem>
+  </exercise>
+  </note> 
+  </section>
+  <section id="sect-00008">
+  <title>Bar Charts for Labeled Data</title>
+  <para id="para-00096">Sometimes we have quantitative data where each value is labeled according to the source of the data. For example, in Your Turn 12, you looked at in-state tuition data. Every value you used to create that histogram was associated with a school; the schools are the labels. In Your Turn 11, you found a histogram of the wins of every Major League Baseball team in 2019. Each of those win totals had a label: the team. If we’re interested in visualizing differences among the different teams, or schools, or whatever the labels are, we create a different version of the bar graph known as a <emphasis effect="bold">bar chart for labeled data</emphasis>.</para>
+  <note class="definition" id="note-00019">
+  <para id="para-00097">In a <emphasis effect="bold">bar chart for labeled data</emphasis> each data value gets its own bar; that value determines the height of the bar. On the horizontal axis, the bars are labeled with the data labels.</para>
+  </note>
+  <para id="para-00098">These graphs are made in Google Sheets in exactly the same way as regular bar graphs. The only change is that the vertical axis will be labeled with the units for your quantitative data instead of just “Frequency.”</para>
+  <example id="exam-00009"><title>Building a Bar Chart for Labeled Data</title>
+  <exercise id="exer-00017">
+  <problem id="prob-00017"><para id="para-00099">The following table shows the gross domestic product (GDP) for the United States for the years 2010 to 2019 (data from data.worldbank.org):</para>
+  <table class="unnumbered" frame="none" id="table-00023" summary=".">
+  <tgroup cols="2">
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="1*"/>
+  <thead>
+  <row><entry>Year</entry>
+  <entry>GDP (in $ trillions)</entry></row>
+  </thead>
+  <tbody>
+  <row><entry>2010</entry>
+  <entry>14.992</entry></row>
+  <row><entry>2011</entry>
+  <entry>15.543</entry></row>
+  <row><entry>2012</entry>
+  <entry>16.197</entry></row>
+  <row><entry>2013</entry>
+  <entry>16.785</entry></row>
+  <row><entry>2014</entry>
+  <entry>17.527</entry></row>
+  <row><entry>2015</entry>
+  <entry>18.225</entry></row>
+  <row><entry>2016</entry>
+  <entry>18.715</entry></row>
+  <row><entry>2017</entry>
+  <entry>19.519</entry></row>
+  <row><entry>2018</entry>
+  <entry>20.580</entry></row>
+  <row><entry>2019</entry>
+  <entry>21.433</entry></row></tbody>
+  </tgroup>
+  </table>
+  <para id="para-00100">Construct a visualization of these data to explore the change in GDP over time.</para>
+  </problem>
+  <solution id="sol-00017">
+  <para id="para-00101">In this case, the years are the labels, and the data we are interested in are the GDP numbers. Once you have the table above (including the labels) entered into a spreadsheet, click and drag to select the full table. Then, in the “Insert” menu, click “Chart.” The result may not be a bar chart; if it’s not, select “Column chart” in the drop-down menu “Chart type” in the Chart Editor. If you want, you can edit things like the chart title in the “Customize” tab in the Chart Editor. Here’s the result:</para>
+
+  </solution>
+  </exercise>
+  </example>
+  <note class="your-turn" id="note-00020">
+  <exercise id="exer-00018">
+  <problem id="prob-00018"><para id="para-00102"><link class="os-embed" url="#exercise/CM-C08-M2-Q009"/></para>
+  </problem>
+  </exercise>
+  </note>
+  </section>
+  </section>
+  <section id="sect-00009">
+  <title>Misleading Graphs</title>
+  <para id="para-00104">Graphical representations of data can be manipulated in ways that intentionally mislead the reader. There are two primary ways this can be done: by manipulating the scales on the axes and by manipulating or misrepresenting areas of bars. Let’s look at some examples of these.</para>
+  <example id="exam-00010"><title>EXAMPLE 14 – Misleading Graphs</title>
+  <para id="para-00105">The English Premier League is the top soccer organization in the United Kingdom. As of January 2020, here are the teams and their payrolls (data from spotrac.com):</para>
+  <table class="unnumbered" frame="none" id="table-00025" summary=".">
+  <tgroup cols="2">
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="1*"/>
+  <thead>
+  <row><entry>Team</entry>
+  <entry>Salary (£1,000,000s)</entry></row>
+  </thead>
+  <tbody>
+  <row><entry>Manchester United F.C.</entry>
+  <entry>175.7</entry></row>
+  <row><entry>Manchester City F.C.</entry>
+  <entry>136.5</entry></row>
+  <row><entry>Chelsea F.C.</entry>
+  <entry>132.8</entry></row>
+  <row><entry>Arsenal F.C.</entry>
+  <entry>130.7</entry></row>
+  <row><entry>Tottenham Hotspur F.C.</entry>
+  <entry>129.2</entry></row>
+  <row><entry>Liverpool F.C.</entry>
+  <entry>118.6</entry></row>
+  <row><entry>Crystal Palace</entry>
+  <entry>85.0</entry></row>
+  <row><entry>Everton F.C.</entry>
+  <entry>82.5</entry></row>
+  <row><entry>Leicester City</entry>
+  <entry>73.7</entry></row>
+  <row><entry>West Ham United F.C.</entry>
+  <entry>69.2</entry></row>
+  <row><entry>Newcastle United F.C.</entry>
+  <entry>56.9</entry></row>
+  <row><entry>Aston Villa F.C.</entry>
+  <entry>52.3</entry></row>
+  <row><entry>Fulham F.C.</entry>
+  <entry>52.1</entry></row>
+  <row><entry>Southampton F.C.</entry>
+  <entry>49.6</entry></row>
+  <row><entry>Wolverhampton Wanderers F.C.</entry>
+  <entry>49.5</entry></row>
+  <row><entry>Brighton &amp; Hove Albion</entry>
+  <entry>43.7</entry></row>
+  <row><entry>Burnley F.C.</entry>
+  <entry>35.5</entry></row>
+  <row><entry>West Bromwich Albion F.C.</entry>
+  <entry>23.8</entry></row>
+  <row><entry>Leeds United F.C.</entry>
+  <entry>22.5</entry></row>
+  <row><entry>Sheffield United F.C.</entry>
+  <entry>19.7</entry></row></tbody>
+  </tgroup>
+  </table>
+  <para id="para-00106">Let’s focus on the top five teams. Here’s a bar chart of their payrolls:</para>
+
+  <para id="para-00108">You'll notice that these two graphs look strikingly different. In the second graph, the gap between Manchester United and the other four teams looks significantly larger than in the first graph, but the data are the same. The scale on the vertical axis has been manipulated here. The first graph's axis starts at zero, while the lowest value on the second graph's axis is 120. This trick has a strong impact on the viewer’s perception of the data.</para>
+  </example>
+  <note class="check-point" id="note-00021">
+  <para id="para-00109"><emphasis effect="italic">Beware of vertical axes that don’t start at zero! They overemphasize differences in heights.</emphasis></para>
+  </note>
+  <para id="para-00110">To further emphasize the difference this creates in our perception let's look at that data again, but this time using graphics instead of colored areas on our bar graph.</para>
+
+  <para id="para-00111">This graph uses an image of a £10 banknote in place of the bars. Using an image that evokes the context of the data in place of a standard, boring bar is a common tool that people use when creating <emphasis effect="italic">infographics</emphasis>. However, this is generally not a good practice because it distorts the data. Notice that our “bars” (the banknotes) are just as tall here as they were in the previous figure. But, to maintain the right proportions, the <emphasis effect="italic">widths</emphasis> had to be adjusted as well. Let’s look at the heights first. The largest bar (for Manchester United) represents a payroll of £175.7 million. But the bottom is at £120 million, for a net (apparent) height of <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mn>175.7</mn><mo>-</mo><mn>120</mn><mo>=</mo><mn>55.7</mn></mrow></math>. Now look at the smallest bar (for Tottenham Hotspur). Its height is <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mn>129.2</mn><mo>-</mo><mn>120</mn><mo>=</mo><mn>9.2</mn></mrow></math>. So, the smaller bar is <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mstyle displaystyle="true"><mfrac><mrow><mn>9.2</mn></mrow><mrow><mn>55.7</mn></mrow></mfrac></mstyle><mo>≈</mo><mn>16.5</mn><mi>%</mi></mrow></math> of the height of the bigger one. That is the same percentage that we would get if we did the same computation on the bars in the original bar chart. However, when looking at rectangles, the human eye tends to process <emphasis effect="italic" xmlns="http://cnx.rice.edu/cnxml">areas</emphasis> more easily than <emphasis effect="italic">heights</emphasis>. In the original bar chart, the area of the smaller bar is about 16.5% of the bigger one. That’s the same ratio as the heights because the bases of those rectangles are all the same. But in the infographic, the bases of the banknote "bars" are all different. In order to maintain the right dimensions, the base of the smaller bar is <emphasis effect="italic">also</emphasis> 16.5% of the base of the larger one. The result is a bar whose area is only <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msup><mrow><mo stretchy="false">(</mo><mn>16.5</mn><mi>%</mi><mo stretchy="false">)</mo></mrow><mn>2</mn></msup><mo>≈</mo><mn>2.7</mn><mi>%</mi></mrow></math> of the area of the larger one. That’s an incredibly significant difference.</para>
+  <note class="check-point" id="note-00022" xmlns="http://cnx.rice.edu/cnxml">
+  <para id="para-00112"><emphasis effect="italic">Beware of infographics! Areas overemphasize a difference that should be measured with a height!</emphasis></para>
+  </note>
+  <para id="para-00113">Now, let’s look at all 20 teams again. Here’s a histogram of the payrolls of the teams:</para>
+
+  <para id="para-00114">The histogram indicates that the data are right-skewed, with the highest number of teams having a payroll between £40 million and £80 million. Now let's view this same data in another chart:</para>
+ 
+  <para id="para-00115">Even though this chart uses the same data, the skew seems to be reversed. Why? Well, even though this graph <emphasis effect="italic">looks</emphasis> like a histogram, it isn’t. Look closely at the labels on the horizontal axis; they don't correspond to spots on the axis, but instead provide a range, meaning this is a bar graph based on a binned frequency distribution. When we review these ranges, we can see that the last range is misleading as it consists of all data “over 80.” If the bins all had the same width, that last bin would run from 80 to 120. However, we can see from the histogram that the maximum value for this data is between 160 and 200. If the last bin in this bar graph were labeled honestly, it would read “80-200,” which would drive home the fact that the width of that bar is misleading.</para>
+  <note class="check-point" id="note-00023">
+  <para id="para-00116"><emphasis effect="italic">Always check the horizontal axis on histograms! The widths of all the bars should be equal.</emphasis></para>
+  </note>
+  <note class="your-turn" id="note-00024">
+  <exercise id="exer-00020">
+  <problem id="prob-00020"><para id="para-00117"><link class="os-embed" url="#exercise/CM-C08-M2-Q010"/></para>
+  </problem>
+  </exercise>
+  </note>
+  <para id="para-00121">Here is a video that further explains some of these concepts.</para>
+  <note class="video" id="note-00027"><para id="para-00125"><emphasis effect="bold"><link url="https://openstax.org/r/MisleadingGraphs">Misleading Graphs</link></emphasis></para>
+  </note>
+  <note class="who-knew" id="note-00025"><title>NAPOLEON'S FAILED INVASION</title>
+
+  <para id="para-00122">One of the most famous data visualizations ever created was this one, which Charles Joseph Minard used to depict Napoleon’s disastrous attempted invasion of Russia. Here’s the same visualization, but translated into English:</para>
+
+  <para id="para-00123">Minard’s chart is remarkable in that it shows not just how the size of Napoleon’s army shrank drastically over time, but also the location on the map, the direction the army was traveling at the time, and the temperature during the retreat.</para>
+  </note>
+  </section>
+  <section id="sect-00010"><title>Check Your Understanding</title>
+  <exercise id="exer-00019">
+  <problem id="prob-00019">
+  <para id="para-00127"><link class="os-embed" url="#exercise/CM-C08-M2-Q011"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00021">
+<problem id="prob-00021">
+<para id="para-00072"><link class="os-embed" url="#exercise/CM-C08-M2-Q012"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00022">
+<problem id="prob-00022">
+<para id="para-00087"><link class="os-embed" url="#exercise/CM-C08-M2-Q013"/></para>
+</problem>
+</exercise>
+</section>
+  <section class="section-exercises" id="sect-00011">
+  <exercise id="exer-00023">
+  <problem id="prob-00023">
+  <para id="para-00013"><link class="os-embed" url="#exercise/CM-C08-M2-Q014"/></para>
+  </problem>
+  </exercise>
+  <exercise id="exer-00024">
+  <problem id="prob-00024">
+  <para id="para-00014"><link class="os-embed" url="#exercise/CM-C08-M2-Q015"/></para>
+  </problem>
+  </exercise>
+  <exercise id="exer-00025">
+  <problem id="prob-00025">
+  <para id="para-00015"><link class="os-embed" url="#exercise/CM-C08-M2-Q016"/></para>
+  </problem>
+  </exercise>
+  <exercise id="exer-00026">
+  <problem id="prob-00026">
+  <para id="para-00037"><link class="os-embed" url="#exercise/CM-C08-M2-Q017"/></para>
+  </problem>
+  </exercise>
+  <exercise id="exer-00027">
+  <problem id="prob-00027">
+  <para id="para-00038"><link class="os-embed" url="#exercise/CM-C08-M2-Q018"/></para>
+  </problem>
+  </exercise>
+  <exercise id="exer-00028">
+  <problem id="prob-00028">
+  <para id="para-00039"><link class="os-embed" url="#exercise/CM-C08-M2-Q019"/></para>
+  </problem>
+  </exercise>
+  <exercise id="exer-00029">
+  <problem id="prob-00029">
+  <para id="para-00040"><link class="os-embed" url="#exercise/CM-C08-M2-Q020"/></para>
+  </problem>
+  </exercise>
+  <exercise id="exer-00030">
+  <problem id="prob-00030">
+  <para id="para-00050"><link class="os-embed" url="#exercise/CM-C08-M2-Q021"/></para>
+  </problem>
+  </exercise>
+  </section>
+  <section class="key-terms" id="sect-00017">
+        <title>Key Terms</title>
+        <list bullet-style="none" id="list-00102">
+        <item>proportion</item>
+        <item>bar chart</item>
+        <item>pie chart</item>
+        <item>stem-and-leaf plot</item>
+        <item>distribution (of quantitative data)</item>
+        <item>histogram</item>
+        <item>bar chart for labeled data</item>
+        </list>
+        </section>
+        <section class="key-concepts" id="sect-00018">
+        <title>Key Concepts</title>
+        <list bullet-style="none" id="list-00103">
+        <item>Choosing and creating appropriate data visualizations</item>
+        <item>Interpreting data visualizations</item>
+        <item>Identifying misleading features in data visualizations</item>
+        </list>
+        </section>
+        <section class="eoc-videos" id="sect-00019">
+        <title>Videos</title>
+        <list bullet-style="none" id="list-00005">
+        <item id="para-00175"><emphasis effect="bold">Creating Bar Graphs Using Google Sheets &lt;<link url="https://openstax.org/r/Bar-Graphs">https://openstax.org/r/Bar-Graphs</link>></emphasis></item>
+        <item id="para-00176"><emphasis effect="bold">Creating Pie Charts Using Google Sheets &lt;<link url="https://openstax.org/r/Pie-Charts">https://openstax.org/r/Pie-Charts</link>></emphasis></item>
+        <item id="para-00177"><emphasis effect="bold">Creating Histograms Using Google Sheets &lt;<link url="https://openstax.org/r/Histograms">https://openstax.org/r/Histograms</link>></emphasis></item>
+        <item id="para-00178"><emphasis effect="bold">Misleading Graphs &lt;<link url="https://openstax.org/r/Misleading-Graphs">https://openstax.org/r/Misleading-Graphs</link>></emphasis></item>
+        </list>
+        </section>
+</content>
     </document>

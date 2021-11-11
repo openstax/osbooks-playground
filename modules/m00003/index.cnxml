@@ -1,16 +1,627 @@
-<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
-  <title>Introduction</title>
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Gathering and Organizing Data</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>Introduction</md:title>
+    <md:title>Gathering and Organizing Data</md:title>
     <md:content-id>m00003</md:content-id>
     <md:uuid>0a87d108-2e72-4c3a-abf6-955aebce92ad</md:uuid>
   </metadata>
-  <content class="introduction">
-    
-      <para id="fs-idm388746384">
-    “This king is the greatest of the Muslim kings of the Sudan.<footnote id="eip-877">Here used as a geographical term meaning “land of the blacks.” WW-test notes this is a footnote and should appear at the bottom of the page.</footnote>  He rules the most extensive territory, has the most numerous army, is the bravest, richest, the most fortunate, the most victorious over his enemies, and the best able to distribute benefits.” So wrote Al-Umari of the Malian king Mansa Musa. In the 14th century, Mansa Musa’s Malian kingdom was the most recent state in the history of the African Sahel to exploit the region’s incredibly vast gold fields, having been preceded by the kingdom of Ghana (dubbed the “Land of Gold” by medieval Arab traders) and, in turn, succeeded by the Songhai kingdom. From their position astride the Sahelian trade routes, these centralized medieval African states exercised enormous influence over Trans-Saharan Trade, a system of exchange which connected West African gold with the economies of North Africa, the Middle East, southern Europe, and beyond.
-      </para>
-    <para id="fs-idm393441904">Long a bastion of both Christianity and Islam, the peoples of Africa were often at the heart of historical change with global implications. But Africa’s place in historical change was not always the product of external forces. Indeed, it was the great internal migration of Bantu-speaking peoples beginning in 3000 B.C.E. that was responsible for the laying of a common sociocultural foundation throughout most of the Africa south of the Sahara Desert. A process that took more than four thousand years, the Bantu Migrations introduced farming, pastoralism, and iron technology to the roving, hunting-gathering communities which had historically populated this region of Africa, giving rise to settled civilization. WW-test notes this opener is 287 words.</para>
-    
-    </content>
+ <content>
+  <section class="learning-objectives" id="sect-00001">
+  <title>Learning Objectives</title>
+  <para id="para-00001"><emphasis effect="bold">After completing this module, you should be able to:</emphasis></para>
+  <list list-type="enumerated" id="list-00001">
+  <item>Distinguish among sampling techniques.</item>
+  <item>Organize data using an appropriate method.</item>
+  </list>
+  <para id="para-00002">When a polling organization wants to try to establish which candidate will win an upcoming election, their first steps are to write the questions for their survey and to choose which people will be asked to respond to the survey questions. These can seem like simple steps, but they have far-reaching implications in the analysis the pollsters will later carry out. The process by which <term id="term-00001">samples</term> (or groups of <term id="term-00002">units</term>) are chosen can strongly affect the <term id="term-00003">data</term> that are collected.</para>
+  <note class="definition" id="note-00001">
+  <para id="para-00003">A sample is a group of units from which we collect data.</para>
+  <para id="para-00004">Units are anything that can be measured or surveyed, including people, animals, objectives, experiments, and more.</para>
+  <para id="para-00005">Data are observations made on units. They can be measurements taken with a scientific instrument, responses to a question, or any other property of a unit that the researcher can observe or measure.</para>
+  </note>
+  <para id="para-00006">One of the most famous failures of good sampling occurred in the first half of the twentieth century. <emphasis effect="italic">The Literary Digest</emphasis> was among the most respected magazines of the early twentieth century. Despite the name, the <emphasis effect="italic">Digest</emphasis> was a weekly newsmagazine. Starting in 1916, the <emphasis effect="italic">Digest</emphasis> conducted a poll to try to predict the winner of each US Presidential election. For the most part, their results were good; they correctly predicted the outcome of all five elections between 1916 and 1932. In 1936, the incumbent President Franklin Delano Roosevelt faced Kansas governor Alf Landon, and once again the <emphasis effect="italic">Digest</emphasis> ran their famous poll, with results published the week before the election. Their conclusion? Landon would win in a landslide, 57% to 43%. Once the actual votes had been counted, though, Roosevelt ended up with 61% of the popular vote, 18% more than the poll predicted. What went wrong?</para>
+  <para id="para-00007">The short answer is that the people who were chosen to receive the survey (over ten million of them!) were not a good representation of the <term id="term-00004">population</term> of voting adults. The sample was chosen using the <emphasis effect="italic">Digest's</emphasis> own base of subscribers as well as publicly-available lists of people that were likely adults (and therefore eligible to vote), mostly phone books and vehicle registration records. The pollsters then mailed every single person on these lists a survey. Around a quarter of those surveys were returned; this constituted the sample that was used to make the <emphasis effect="italic">Digest</emphasis>’s disastrously incorrect prediction. What the pollsters failed to account for was that this election happened in the depths of the Great Depression. Only the wealthy had the disposable income to spend on telephone lines, automobiles, and magazine subscriptions, which meant only the wealthy were sent the <emphasis effect="italic">Digest</emphasis>’s survey. Since Roosevelt was extremely popular among poorer voters, many of Roosevelt’s supporters were excluded from the <emphasis effect="italic">Digest</emphasis>’s sample.</para>
+  <para id="para-00008">Another, more complicated factor was the low response rate; as we saw above, only around 25% of the surveys were returned. This created what’s called a non-response bias. You can read more about this in the article “Why the 1936 <emphasis effect="italic">Literary Digest</emphasis> Poll Failed” by Peverill Squire, published in <emphasis effect="italic">Public Opinion Quarterly</emphasis> (vol. 52:125-133, 1988). Public opinion of the <emphasis effect="italic">Digest</emphasis> was so shattered that circulation plummeted; the last issue was published just over a year later.</para>
+  <note class="definition" id="note-00002">
+  <para id="para-00009">A population is the collection of all the units that the gatherer is interested in.</para>
+  </note>
+  </section>
+  <section id="sect-00002">
+  <title>Sampling and Gathering Data</title>
+  <para id="para-00010">The <emphasis effect="italic">Digest's</emphasis> failure highlights the need for what is now considered the most important criterion for sampling: randomness. This randomness can be achieved in several ways. Here we cover some of the most common.</para>
+  <para id="para-00011">A <term id="term-00005">simple random sample</term> is chosen in a way that every unit in the population has an equal chance of being selected, and the chances of a unit being selected do not depend on the units already chosen. An example of this is choosing a group of people by drawing names out of a hat (assuming the names are well-mixed in the hat).</para>
+  <note class="definition" id="note-00003">
+  <para id="para-00012">In a simple random sample, every unit in the population has an equal chance of being selected, and the chances of a unit being selected do not depend on the units already chosen.</para>
+  </note>
+  <para id="para-00013">A <term id="term-00006">systematic random sample</term> is selected from an ordered list of the population (for example, names sorted alphabetically or students listed by student ID). First, we decide what proportion of the population will be in our sample. We want to express that proportion as a fraction with 1 in the numerator. Let’s call that number D. Next, we’ll choose a random number between one and D. The unit at that position will go into our sample. We’ll find the rest of our sample by choosing every D<sup>th</sup> unit in the list, starting with our random number.</para>
+  <para id="para-00014" xmlns="http://cnx.rice.edu/cnxml">To walk through an example, let’s say we want to sample 2% of the population: <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mn>2</mn><mi>%</mi><mo>=</mo><mfrac><mn>2</mn><mrow><mn>100</mn></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mrow><mn>50</mn></mrow></mfrac></mrow></math>. (Note: If the number in the denominator isn’t a whole number, we can just round it off. This part of the process doesn’t have to be precise.) We can then use a random number generator to find a random number between 1 and 50; let's use 31. In our example, our sample would then be the units in the list at positions 31, 81 (31 + 50), 131 (81 + 50), and so forth.</para>
+  <note class="definition" id="note-00004" xmlns="http://cnx.rice.edu/cnxml">
+  <para id="para-00015">A systematic random sample is selected from an ordered list of the population by choosing the first unit for the sample at random and then skipping ahead in the list a fixed distance to find each successive unit.</para>
+  </note>
+  <para id="para-00016">A <term id="term-00007">stratified sample</term> is one chosen so that particular groups in the population are certain to be represented. Let’s say you are studying the population of students in a large high school (where the grades run from 9<sup>th</sup> to 12<sup>th</sup>), and you want to choose a sample of 12 students. If you use a simple or systematic random sample, there’s a pretty good chance that you’ll miss one grade completely. (This will happen around 12% of the time, in fact.) In a stratified sample, you would first divide the population into groups (the <emphasis effect="italic">strata</emphasis>), then take a random sample within each <emphasis effect="italic">stratum</emphasis> (that’s the singular form of “strata”). In the high school example, we could divide the population into grades, then take a random sample of three students within each grade. That would get us to the 12 students we need while ensuring coverage of each grade.</para>
+  <note class="definition" id="note-00005">
+  <para id="para-00017">A stratified sample is a sample that is not chosen from the full population, but instead a series of smaller samples are chosen from subgroups of the population. These small samples are then put together to create the full sample.</para>
+  </note>
+  <para id="para-00018">A <term id="term-00008">cluster sample</term> is a sample where clusters of units are chosen at random, instead of choosing individual units. For example, if we need a sample of college students, we may take a list of all the course sections being offered at the college, choose three of them at random (the sections are the clusters), and then survey all the students in those sections. A sample like this one has the advantage of convenience: if the survey needs to be administered in person, many of your sample units will be located in one place at the same time.</para>
+  <note class="definition" id="note-00006">
+  <para id="para-00019">In a cluster sample, clusters of units (rather than individual units) are chosen at random. Every unit in the selected clusters is then a part of the sample.</para>
+  </note>
+  <example id="exam-00001">
+  <title>Random Sampling </title>
+  <exercise id="exer-00001">
+  <problem id="prob-00001">
+  <para id="para-00020">For each of the following situations, identify whether the sample is a simple random sample, a systematic random sample, a stratified random sample, a cluster random sample, or none of these.
+  <list list-type="enumerated" id="list-00002">
+  <item>A postal inspector wants to check on the performance of a new mail carrier, so she chooses four streets at random among those that the carrier serves. Each household on the selected streets receives a survey.</item>
+  <item>A hospital wants to survey past patients to see if they were satisfied with the care they received. The administrator sorts the patients into groups based on the department of the hospital where they were treated (ICU, pediatrics, or general), and selects patients at random from each of those groups.</item>
+  <item>A quality control engineer at a factory that makes smartphones wants to figure out the proportion of devices that are faulty before they are shipped out. The phones are currently packed in boxes for shipping, each of which holds 20 devices. The engineer wants to sample 100 phones, so he selects five crates at random and tests every phone in those five crates.</item>
+  <item>A newspaper reporter wants to write a story on public perceptions on a project that will widen a congested street. She stands on the side of the street in question and interviews the first five people she sees there.</item>
+  <item>An executive at a streaming video service wants to know if her subscribers would support a second season of a new show. She gets a list of all the subscribers who have watched at least one episode of the show, and uses a random number generator to select a sample of 50 people from the list.</item>
+  <item>An agent for a state’s Department of Revenue is in charge of selecting 100 tax returns for audit. He has a list of all of the returns eligible for audit (about 12,000 in all), sorted by the taxpayer’s ID number. He asks a computer to give him a random number between 1 and 120; it gives him 15. The agent chooses the 15<sup>th</sup>, 135<sup>th</sup>, 255<sup>th</sup>, 375<sup>th</sup>, and every 120<sup>th</sup> return after that to be audited.</item>
+  </list>
+  </para>
+  </problem>
+  <solution id="sol-00001">
+  <para id="para-00021">To decide which type of random sample is being used in each of these, we need to focus on how the randomization is being incorporated.
+  <list list-type="enumerated" id="list-00003">
+  <item>The surveys are being given to households, so households are the units in this case. But households aren’t being chosen randomly; instead, <emphasis effect="italic">streets</emphasis> are being chosen at random. These form clusters of units, so this is a cluster random sample.</item>
+  <item>In this case, the administrator isn’t selecting patients at random from the entire list of patients. Instead, she is choosing at random from the patients who were in each of the departments (ICU, pediatrics, general) separately. The departments form <emphasis effect="italic">strata</emphasis>, so this is a stratified random sample.</item>
+  <item>The engineer is testing whether the phones are faulty, so those are the units. But the random process is being used to select the <emphasis effect="italic">crates</emphasis> of phones. Those crates form clusters, so this is a cluster random sample.</item>
+  <item>The reporter isn’t using a random process at all, so this sample doesn’t belong to any of the types we have been talking about. A sample like this one is sometimes described as a <emphasis effect="italic">convenience sample</emphasis>, and shouldn’t be used in a statistical setting.</item>
+  <item>The executive is choosing her sample completely at random from the full population, so this is a simple random sample.</item>
+  <item>The agent is choosing from the full population, but is only choosing the first unit for the sample at random; the rest are chosen by skipping down the list systematically. Thus, this is a systematic random sample.</item>
+  </list>
+  </para>
+  </solution>
+  </exercise>
+  </example>
+  <note class="your-turn" id="note-00007">
+  <exercise id="exer-00002">
+  <problem id="prob-00002">
+  <para id="para-00022"><link class="os-embed" url="#exercise/CM-C08-M1-Q001"/></para>
+  </problem>
+  </exercise>
+  </note>
+  <note class="people-mathematics" id="note-00008">
+  <title>George Gallup</title>
+  
+  <para id="para-00023">George Gallup (1901 – 1984) rose to fame in 1936 when his prediction of the percentage of the vote going to each candidate in that year’s U.S. Presidential election was more accurate than the one published in <emphasis effect="italic">Literary Digest</emphasis>, and he did so using a sample that was much smaller than the <emphasis effect="italic">Digest</emphasis>. He even took it one step farther, predicting with high accuracy the erroneous results of the poll that the <emphasis effect="italic">Literary Digest</emphasis> would end up publishing! Gallup’s theories on public opinion polling essentially created that field. In 1948, Gallup’s reputation took a bit of a hit, when he famously, but incorrectly, predicted that Thomas Dewey would beat incumbent Harry Truman in that year’s Presidential election. Over the following decades, however, public trust in Gallup’s polls recovered and even steadily increased. The company Gallup founded continues to conduct daily public opinion polls, as well as provides consulting services for businesses (find it at <link url="https://openstax.org/r/Gallup">https://openstax.org/r/Gallup</link>).</para>
+  </note>
+  </section>
+  <section id="sect-00003">
+  <title> Organizing Data</title>
+  <para id="para-00024">Once data have been collected, we turn our attention to analysis. Before we analyze, though, it’s useful to reorganize the data into a format that makes the analysis easier. For example, if our data were collected using a paper survey, our <emphasis effect="italic">raw data</emphasis> are all broken down by respondent (represented by an individual response sheet). To perform an analysis on all the responses to an individual question, we need to first group all the responses to each question together. The way we organize the data depends on the type of data we’ve collected. There are two broad types of data: <term id="term-00009">categorical</term> and <term id="term-00010">quantitative</term>. Categorical data classifies the unit into a group (or category). Examples of categorical data include a response to a yes-or-no question, or the color of a person’s eyes. Quantitative data is a numerical measure of a property of a unit. Examples of quantitative data include the time it takes for a rat to run through a maze or a person’s daily calorie intake. We’ll look at each type of data in turn when considering how best to organize.</para>
+  <note class="definition" id="note-00009">
+  <para id="para-00025"><emphasis effect="bold">Quantitative</emphasis> data is a numerical measure of a property of a unit.</para>
+  <para id="para-00026"><emphasis effect="bold">Categorical</emphasis> data identifies a group that the unit belongs to.</para>
+  </note>
+  <section id="sect-00004">
+  <title> Categorical Data Organization</title>
+  <para id="para-00027">The best way to organize categorical data is using a <term id="term-00011">categorical frequency distribution</term>. A categorical frequency distribution is a table with two columns. The first contains all the categories present in the data, each listed once. The second contains the <emphasis effect="italic">frequencies</emphasis> of each category, which are just a count of how often each category appears in the data.</para>
+  <note class="definition" id="note-00010">
+  <para id="para-00028">A categorical frequency distribution organizes data into two columns; one with all categories and the second with the frequencies of each category.</para>
+  </note>
+  <example id="exam-00002">
+  <title>Creating a Categorical Frequency Distribution</title>
+  <exercise id="exer-00003">
+  <problem id="prob-00003">
+  <para id="para-00029">A teacher records the responses of the class (28 students) on the first question of a multiple choice quiz, with five possible responses (A, B, C, D, and E):
+  <table class="unnumbered" summary="." id="table-00001">
+  <tgroup cols="7">
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="1*"/>
+  <colspec colnum="3" colname="c3" colwidth="1*"/>
+  <colspec colnum="4" colname="c4" colwidth="1*"/>
+  <colspec colnum="5" colname="c5" colwidth="1*"/>
+  <colspec colnum="6" colname="c6" colwidth="1*"/>
+  <colspec colnum="7" colname="c7" colwidth="1*"/>
+  <tbody>
+  <row>
+  <entry>A</entry>
+  <entry>A</entry>
+  <entry>C</entry>
+  <entry>A</entry>
+  <entry>B</entry>
+  <entry>B</entry>
+  <entry>A</entry>
+  </row>
+  <row>
+  <entry>E</entry>
+  <entry>A</entry>
+  <entry>B</entry>
+  <entry>A</entry>
+  <entry>A</entry>
+  <entry>C</entry>
+  <entry>A</entry>
+  </row>
+  <row>
+  <entry>E</entry>
+  <entry>A</entry>
+  <entry>C</entry>
+  <entry>A</entry>
+  <entry>A</entry>
+  <entry>A</entry>
+  <entry>C</entry>
+  </row>
+  <row>
+  <entry>B</entry>
+  <entry>E</entry>
+  <entry>E</entry>
+  <entry>A</entry>
+  <entry>A</entry>
+  <entry>C</entry>
+  <entry>C</entry>
+  </row></tbody>
+  </tgroup>
+  </table>
+  </para>
+  <para id="para-00030">Create a categorical frequency distribution that organizes the responses.</para>
+  </problem>
+  <solution id="sol-00003">
+  <para id="para-00031">Step 1 – For each possible response, count the number of times that response appears in the data. In the responses for this class, “A” appears 14 times, “B” 4 times, “C” 6 times, “D” 0 times, and “E” 4 times.</para>
+  <para id="para-00032">Step 2 – Make a table with two columns. The first column should be labelled so that the reader knows what the responses mean, and the second should be labeled “Frequency.”
+  <table class="unnumbered" summary="." id="table-00002">
+  <tgroup cols="2">
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="1*"/>
+  <thead>
+  <row>
+  <entry>Response on Question 1</entry>
+  <entry>Frequency</entry>
+  </row>
+  </thead>
+  <tbody>
+  <row>
+  <entry>A</entry>
+  <entry>14</entry>
+  </row>
+  <row>
+  <entry>B</entry>
+  <entry>4</entry>
+  </row>
+  <row>
+  <entry>C</entry>
+  <entry>6</entry>
+  </row>
+  <row>
+  <entry>D</entry>
+  <entry>0</entry>
+  </row>
+  <row>
+  <entry>E</entry>
+  <entry>4</entry>
+  </row></tbody>
+  </tgroup>
+  </table>
+  </para>
+  <para id="para-00033">Step 3 – Check your work. If you add up your frequencies, you should get the same number as the total number of responses. Twenty-eight students answered that first question, and <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mn>14</mn><mo>+</mo><mn>4</mn><mo>+</mo><mn>6</mn><mo>+</mo><mn>0</mn><mo>+</mo><mn>4</mn><mo>=</mo><mn>28</mn></mrow></math>.</para>
+  </solution>
+  </exercise>
+  </example>
+  <note class="your-turn" id="note-00011" xmlns="http://cnx.rice.edu/cnxml">
+  <exercise id="exer-00004">
+  <problem id="prob-00004">
+  <para id="para-00034"><link class="os-embed" url="#exercise/CM-C08-M1-Q002"/></para>
+  </problem>
+  </exercise>
+  </note>
+  </section>
+  <section id="sect-00005">
+  <title>Quantitative Data</title>
+  <para id="para-00036">If the data we have collected are quantitative, we have a couple of options for organization, depending on the responses. If there are just a few possible responses, we can create a frequency distribution just like the ones we made for categorical data above. For example, if we’re surveying a group of high school students and we ask for each student’s age, we’ll likely only get whole-number responses between 13 and 19. Since there are only around seven (and likely fewer) possible responses, a frequency distribution like those above is appropriate.</para>
+  <example id="exam-00003">
+  <title>Creating a Quantitative Frequency Distribution</title>
+  <exercise id="exer-00005">
+  <problem id="prob-00005">
+  <para id="para-00037">One of the questions on a survey of people attending a conflict resolution workshop asks how many siblings the attendee has. Here are the responses:
+  <table class="unnumbered" summary="." id="table-00005">
+  <tgroup cols="10">
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="1*"/>
+  <colspec colnum="3" colname="c3" colwidth="1*"/>
+  <colspec colnum="4" colname="c4" colwidth="1*"/>
+  <colspec colnum="5" colname="c5" colwidth="1*"/>
+  <colspec colnum="6" colname="c6" colwidth="1*"/>
+  <colspec colnum="7" colname="c7" colwidth="1*"/>
+  <colspec colnum="8" colname="c8" colwidth="1*"/>
+  <colspec colnum="9" colname="c9" colwidth="1*"/>
+  <colspec colnum="10" colname="c10" colwidth="1*"/>
+  <tbody>
+  <row>
+  <entry>1</entry>
+  <entry>0</entry>
+  <entry>1</entry>
+  <entry>1</entry>
+  <entry>2</entry>
+  <entry>0</entry>
+  <entry>3</entry>
+  <entry>1</entry>
+  <entry>1</entry>
+  <entry>4</entry>
+  </row>
+  <row>
+  <entry>1</entry>
+  <entry>2</entry>
+  <entry>1</entry>
+  <entry>2</entry>
+  <entry>4</entry>
+  <entry>1</entry>
+  <entry>0</entry>
+  <entry>1</entry>
+  <entry>3</entry>
+  <entry>0</entry>
+  </row>
+  <row>
+  <entry>1</entry>
+  <entry>2</entry>
+  <entry>1</entry>
+  <entry>2</entry>
+  <entry>0</entry>
+  <entry>2</entry>
+  <entry>1</entry>
+  <entry>1</entry>
+  <entry>3</entry>
+  <entry>5</entry>
+  </row></tbody>
+  </tgroup>
+  </table>
+  </para>
+  <para id="para-00038">Create a frequency distribution to organize the responses.</para>
+  </problem>
+  <solution id="sol-00005">
+  <para id="para-00039">Step 1 – Count the number of times you see each unique response: “0” appears five times, “1” appears thirteen times, “2” appears six times, “3” appears three times, “4” appears twice, and “5” appears once.</para>
+  <para id="para-00040">Step 2 – Make a table with two columns. The first column should be labeled so that the reader knows what the responses mean, and the second should be labeled “Frequency.” Then fill in the results of our count.
+  <table class="unnumbered" summary="." id="table-00006">
+  <tgroup cols="2">
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="1*"/>
+  <thead>
+  <row>
+  <entry>Number of siblings</entry>
+  <entry>Frequency</entry>
+  </row>
+  </thead>
+  <tbody>
+  <row>
+  <entry>0</entry>
+  <entry>5</entry>
+  </row>
+  <row>
+  <entry>1</entry>
+  <entry>13</entry>
+  </row>
+  <row>
+  <entry>2</entry>
+  <entry>6</entry>
+  </row>
+  <row>
+  <entry>3</entry>
+  <entry>3</entry>
+  </row>
+  <row>
+  <entry>4</entry>
+  <entry>2</entry>
+  </row>
+  <row>
+  <entry>5</entry>
+  <entry>1</entry>
+  </row></tbody>
+  </tgroup>
+  </table>
+  </para>
+  <para id="para-00041">Step 3 – Check your work. If you add up your counts, you should get the same number as the total number of responses. Looking back at the raw data, there were thirty responses, and <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mn>5</mn><mo>+</mo><mn>13</mn><mo>+</mo><mn>6</mn><mo>+</mo><mn>3</mn><mo>+</mo><mn>2</mn><mo>+</mo><mn>1</mn><mo>=</mo><mn>30</mn></mrow></math>.</para>
+  </solution>
+  </exercise>
+  </example>
+  <note class="your-turn" id="note-00012" xmlns="http://cnx.rice.edu/cnxml">
+  <exercise id="exer-00006">
+  <problem id="prob-00006">
+  <para id="para-00042"><link class="os-embed" url="#exercise/CM-C08-M1-Q003"/></para>
+  </problem>
+  </exercise>
+  </note>
+  <para id="para-00044">If there are many possible responses, a frequency distribution table like the ones we’ve seen so far isn’t really useful; there will likely be many responses with a frequency of one, which means the table will be no better than looking at the raw data. In these cases, we can create a <term id="term-00012">binned frequency distribution</term>. A binned frequency distribution groups the data into ranges of values called <emphasis effect="italic">bins</emphasis>, then records the number of responses in each bin.</para>
+  <note class="definition" id="note-00013">
+  <para id="para-00045">A binned frequency distribution groups quantitative data into bins and records the number of responses in each bin.</para>
+  </note>
+  <para id="para-00046">For example, if we have height data for individuals measured in centimeters, we might create bins like 150-155 cm, 155-160 cm, and so forth (making sure that every data value falls into a bin). We must be careful, though; in the example above, it’s not clear which bin would contain a response of 155 cm. Usually, responses on the edge of a bin are placed in the higher bin, but it’s good practice to make that clear. In cases where responses are rounded off, you can avoid this issue by leaving a gap between the bins that couldn’t contain any responses. In our example, if the measurements were all rounded off to the nearest centimeter, we could make bins like 150-154 cm, 155-159 cm, etc. (since a response like 154.2 isn’t possible). We’ll use this method going forward. How do we decide what the boundaries of our bins should be? There’s no one right way to do that, but there are some guidelines that can be helpful.</para>
+  <list list-type="enumerated" id="list-00006">
+  <item>Every data value should fall into exactly one bin. For example, if the lowest value in our data is 42, the lowest bin should not be 45-49.</item>
+  <item>Every bin should have the same width. Note that if we shift the upper limits of our bins down a bit to avoid ambiguity (like described above), we can’t simply subtract the lower limit from the upper limit to get the bin width; instead, we subtract the lower limit of the bin from the lower limit of the <emphasis effect="italic">next</emphasis> bin. For example, if we’re looking at GPAs rounded to the nearest hundredth, we might choose bins like 2.00-2.24, 2.25-2.49, 2.50-2.74, etc. These bins all have a width of 0.25.</item>
+  <item>If the minimum or maximum value of the data falls right on the boundary between two bins, then it’s OK to bend the rule just a little in order to avoid having an additional bin containing just that one value. We’ll see an example of this in just a moment.</item>
+  <item>If we have too many or too few bins, it can be difficult to get a good sense of the distribution. Seven or eight bins is ideal, but that’s not a firm rule; anything between five and twelve is fine. We often choose the number of bins so that the widths are round numbers.</item>
+  </list>
+  <example id="exam-00004">
+  <title>Creating a Binned Frequency Distribution</title>
+  <exercise id="exer-00007">
+  <problem id="prob-00007">
+  <para id="para-00047">The GPAs of students enrolled in an advanced sociology class are listed in the following table. At this institution, 4.00 is the maximum possible GPA.
+  <table class="unnumbered" summary="." id="table-00009">
+  <tgroup cols="7">
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="1*"/>
+  <colspec colnum="3" colname="c3" colwidth="1*"/>
+  <colspec colnum="4" colname="c4" colwidth="1*"/>
+  <colspec colnum="5" colname="c5" colwidth="1*"/>
+  <colspec colnum="6" colname="c6" colwidth="1*"/>
+  <colspec colnum="7" colname="c7" colwidth="1*"/>
+  <tbody>
+  <row>
+  <entry>3.93</entry>
+  <entry>3.43</entry>
+  <entry>2.87</entry>
+  <entry>2.51</entry>
+  <entry>2.70</entry>
+  <entry>1.91</entry>
+  <entry>2.32</entry>
+  </row>
+  <row>
+  <entry>1.99</entry>
+  <entry>3.40</entry>
+  <entry>3.74</entry>
+  <entry>3.23</entry>
+  <entry>1.98</entry>
+  <entry>3.05</entry>
+  <entry>1.43</entry>
+  </row>
+  <row>
+  <entry>2.79</entry>
+  <entry>3.81</entry>
+  <entry>2.60</entry>
+  <entry>3.69</entry>
+  <entry>2.88</entry>
+  <entry>3.34</entry>
+  <entry>1.51</entry>
+  </row>
+  <row>
+  <entry>2.85</entry>
+  <entry>3.06</entry>
+  <entry>3.03</entry>
+  <entry>3.49</entry>
+  <entry>1.84</entry>
+  <entry>3.72</entry>
+  <entry>2.56</entry>
+  </row>
+  <row>
+  <entry>2.90</entry>
+  <entry>1.20</entry>
+  <entry>3.72</entry>
+  <entry>3.56</entry>
+  <entry>3.07</entry>
+  <entry>2.58</entry>
+  <entry>4.00</entry>
+  </row>
+  <row>
+  <entry>3.63</entry>
+  <entry>3.45</entry>
+  <entry>1.89</entry>
+  <entry>2.30</entry>
+  <entry>2.98</entry>
+  <entry>3.04</entry>
+  <entry>2.70</entry>
+  </row></tbody>
+  </tgroup>
+  </table>
+  </para>
+  <para id="para-00048">Create a binned frequency distribution for the data.</para>
+  </problem>
+  <solution id="sol-00007">
+  <para id="para-00049">Step 1 – First, we need to decide what our bins will be. We need to ensure that the maximum and minimum values are included, so we should find those first. The lowest value in the data is 1.20, and the highest is 4.00. We want to aim for seven or eight bins, give or take a couple. Let's start by getting a rough idea of the widths. For eight bins, the minimum width can be found by taking the difference between the largest and smallest data values and dividing by the number of bins: <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mtext>maximum</mtext><mo>-</mo><mtext>minimum</mtext></mrow><mrow><mtext># of bins</mtext></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>4.00</mn><mo>-</mo><mn>1.20</mn></mrow><mn>8</mn></mfrac><mo>=</mo><mn>0.35</mn></mrow></math>. If we use 0.35 for our widths, starting at our minimum value of 1.20, we’ll get bins with these boundaries: 1.20, 1.55, 1.90, 2.25, 2.60, 2.95, 3.30, 3.65, 4.00. This would work just fine, but we should keep in mind the context of our data: these are GPAs, so there are natural breaks at 2.00 and 3.00 that are important. (People like whole numbers!) Since 0.35 is very close to <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></math>, let’s use that for our bin width instead, and make sure that whole numbers fall on the boundaries. That means our first bin needs to start at 1.00 and go up to 1.33 to make sure our minimum value is included. The next bin will run from 1.34 to 1.66, and so forth.</para>
+  <para id="para-00050" xmlns="http://cnx.rice.edu/cnxml">Step 2 – Next, we start our distribution table by filling in the bins:
+  <table class="unnumbered" summary="." id="table-00010">
+  <tgroup cols="2">
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="1*"/>
+  <thead>
+  <row>
+  <entry>GPA range</entry>
+  <entry>Frequency</entry>
+  </row>
+  </thead>
+  <tbody>
+  <row>
+  <entry>1.00-1.33</entry>
+  <entry/>
+  </row>
+  <row>
+  <entry>1.34-1.66</entry>
+  <entry/>
+  </row>
+  <row>
+  <entry>1.67-1.99</entry>
+  <entry/>
+  </row>
+  <row>
+  <entry>2.00-2.33</entry>
+  <entry/>
+  </row>
+  <row>
+  <entry>2.34-2.66</entry>
+  <entry/>
+  </row>
+  <row>
+  <entry>2.67-2.99</entry>
+  <entry/>
+  </row>
+  <row>
+  <entry>3.00-3.33</entry>
+  <entry/>
+  </row>
+  <row>
+  <entry>3.34-3.66</entry>
+  <entry/>
+  </row>
+  <row>
+  <entry>3.67-4.00</entry>
+  <entry/>
+  </row></tbody>
+  </tgroup>
+  </table>
+  </para>
+  <para id="para-00051">Notice that the last bin doesn’t follow the pattern; since our maximum data value is right on the upper boundary of that last bin, this is a case where we can bend that rule just a little to avoid creating a bin for 4.00-4.33 (which wouldn’t really make sense in the context of these GPAs anyway, since 4.00 is the maximum possible GPA).</para>
+  <para id="para-00052">Step 3 – We can finish the table by counting the number of data values that fall in each bin, and recording them in the frequency column:
+  <table class="unnumbered" summary="." id="table-00011">
+  <tgroup cols="2">
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="1*"/>
+  <thead>
+  <row>
+  <entry>GPA range</entry>
+  <entry>Frequency</entry>
+  </row>
+  </thead>
+  <tbody>
+  <row>
+  <entry>1.00-1.33</entry>
+  <entry>1</entry>
+  </row>
+  <row>
+  <entry>1.34-1.66</entry>
+  <entry>2</entry>
+  </row>
+  <row>
+  <entry>1.67-1.99</entry>
+  <entry>5</entry>
+  </row>
+  <row>
+  <entry>2.00-2.33</entry>
+  <entry>2</entry>
+  </row>
+  <row>
+  <entry>2.34-2.66</entry>
+  <entry>4</entry>
+  </row>
+  <row>
+  <entry>2.67-2.99</entry>
+  <entry>8</entry>
+  </row>
+  <row>
+  <entry>3.00-3.33</entry>
+  <entry>6</entry>
+  </row>
+  <row>
+  <entry>3.34-3.66</entry>
+  <entry>7</entry>
+  </row>
+  <row>
+  <entry>3.67-4.00</entry>
+  <entry>7</entry>
+  </row></tbody>
+  </tgroup>
+  </table>
+  </para>
+  <para id="para-00053">Step 4 – It’s a good idea to double-check your work by adding up the frequencies to make sure all the data values are included. We started with forty-two data values, and <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mn>1</mn><mo>+</mo><mn>2</mn><mo>+</mo><mn>5</mn><mo>+</mo><mn>2</mn><mo>+</mo><mn>4</mn><mo>+</mo><mn>8</mn><mo>+</mo><mn>6</mn><mo>+</mo><mn>7</mn><mo>+</mo><mn>7</mn><mo>=</mo><mn>42</mn></mrow></math>.</para>
+  </solution>
+  </exercise>
+  </example>
+  <note class="your-turn" id="note-00014" xmlns="http://cnx.rice.edu/cnxml">
+  <exercise id="exer-00008">
+  <problem id="prob-00008">
+  <para id="para-00054"><link class="os-embed" url="#exercise/CM-C08-M1-Q004"/></para>
+  </problem>
+  </exercise>
+  </note>
+  </section>
+  </section>
+  <section id="sect-00006">
+  <title>Check Your Understanding</title>
+  <exercise id="exer-00009">
+  <problem id="prob-00009">
+  <para id="para-00058"><link class="os-embed" url="#exercise/CM-C08-M1-Q005"/></para>
+  </problem>
+  </exercise>
+  <exercise id="exer-00012">
+  <problem id="prob-00012">
+  <para id="para-00064"><link class="os-embed" url="#exercise/CM-C08-M1-Q006"/></para>
+  </problem>
+  </exercise>
+  <exercise id="exer-00013">
+  <problem id="prob-00013">
+  <para id="para-00065"><link class="os-embed" url="#exercise/CM-C08-M1-Q007"/></para>
+  </problem>
+  </exercise>
+  <exercise id="exer-00014">
+  <problem id="prob-00014">
+  <para id="para-00066"><link class="os-embed" url="#exercise/CM-C08-M1-Q008"/></para>
+  </problem>
+  </exercise>
+  </section>
+  <section class="section-exercises" id="sect-00007">
+  <exercise id="exer-00015">
+  <problem id="prob-00015">
+  <para id="para-00069"><link class="os-embed" url="#exercise/CM-C08-M1-Q009"/></para>
+  </problem>
+  </exercise>
+  <exercise id="exer-00020">
+  <problem id="prob-00020">
+  <para id="para-00080"><link class="os-embed" url="#exercise/CM-C08-M1-Q010"/></para>
+  </problem>
+  </exercise>
+  <exercise id="exer-00027">
+  <problem id="prob-00027">
+  <para id="para-00095"><link class="os-embed" url="#exercise/CM-C08-M1-Q011"/></para>
+  </problem>
+  </exercise>
+  <exercise id="exer-00030">
+  <problem id="prob-00030">
+  <para id="para-00101"><link class="os-embed" url="#exercise/CM-C08-M1-Q012"/></para>
+  </problem>
+  </exercise>
+  <exercise id="exer-00031">
+  <problem id="prob-00031">
+  <para id="para-00103"><link class="os-embed" url="#exercise/CM-C08-M1-Q013"/></para>
+  </problem>
+  </exercise>
+  <exercise id="exer-00032">
+  <problem id="prob-00032">
+  <para id="para-00105"><link class="os-embed" url="#exercise/CM-C08-M1-Q014"/></para>
+  </problem>
+  </exercise>
+  <exercise id="exer-00033">
+  <problem id="prob-00033">
+  <para id="para-00107"><link class="os-embed" url="#exercise/CM-C08-M1-Q015"/></para>
+  </problem>
+  </exercise>
+  <exercise id="exer-00034">
+  <problem id="prob-00034">
+  <para id="para-00109"><link class="os-embed" url="#exercise/CM-C08-M1-Q016"/></para>
+  </problem>
+  </exercise>
+  <exercise id="exer-00035">
+  <problem id="prob-00035">
+  <para id="para-00111"><link class="os-embed" url="#exercise/CM-C08-M1-Q017"/></para>
+  </problem>
+  </exercise>
+  <exercise id="exer-00036">
+  <problem id="prob-00036">
+  <para id="para-00114"><link class="os-embed" url="#exercise/CM-C08-M1-Q018"/></para>
+  </problem>
+  </exercise>
+  </section>
+  <section class="key-terms" id="sect-00014">
+    <title>Key Terms</title>
+    <list bullet-style="none" id="list-00100">
+    <item>sample</item>
+    <item>units</item>
+    <item>data</item>
+    <item>population</item>
+    <item>simple random sample</item>
+    <item>systematic random sample</item>
+    <item>stratified sample</item>
+    <item>cluster sample</item>
+    <item>quantitative data</item>
+    <item>categorical data</item>
+    <item>categorical frequency Distribution</item>
+    <item>binned frequency distribution</item>
+    </list>
+    </section>
+    <section class="key-concepts" id="sect-00015">
+    <title>Key Concepts</title>
+    <list bullet-style="none" id="list-00101">
+    <item>Distinguishing between categorical and quantitative data</item>
+    <item>Identifying sampling methods</item>
+    <item>Creating frequency distributions (categorical, quantitative, and binned) to summarize raw data</item>
+    </list>
+    </section>
+  </content>
     </document>
