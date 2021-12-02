@@ -1,40 +1,3 @@
-image: eu.gcr.io/gitpod-core-dev/dev/dev-environment:pd-slim-dev-image.0
-workspaceLocation: gitpod/gitpod-ws.code-workspace
-checkoutLocation: gitpod
-ports:
-  - port: 1337
-    onOpen: open-preview
-  - port: 3000
-    onOpen: ignore
-  - port: 3001
-    onOpen: ignore
-  - port: 3306
-    onOpen: ignore
-  - port: 4000
-    onOpen: ignore
-  - port: 9229
-    onOpen: ignore
-# Go proxy
-  - port: 9999
-    onOpen: ignore
-  - port: 13001
-    onOpen: ignore
-# Werft
-  - port: 7777
-    onOpen: ignore
-# Dev Theia
-  - port: 13444
-tasks:
-  - name: Java
-    init: |
-      leeway exec --package components/supervisor-api/java:lib --package components/gitpod-protocol/java:lib -- ./gradlew build
-      leeway exec --package components/ide/jetbrains/backend-plugin:plugin -- ./gradlew buildPlugin
-  - name: TypeScript
-    before: scripts/branch-namespace.sh
-    init: yarn --network-timeout 100000 && yarn build
-  - name: Go
-    init: leeway exec --filter-type go -v -- go mod verify
-    openMode: split-right
 vscode:
   extensions:
     - bajdzis.vscode-database
@@ -51,3 +14,6 @@ vscode:
     - timonwong.shellcheck
     - vscjava.vscode-java-pack
     - fwcd.kotlin
+    - redhat.vscode-xml
+    - vscode.git
+    - cweijan.git-history-plus
