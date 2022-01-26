@@ -1,0 +1,18 @@
+<col:collection 
+  xmlns:col="http://cnx.rice.edu/collxml"
+  xmlns:md="http://cnx.rice.edu/mdml"
+  xmlns:sys="http://cnx.rice.edu/system-info"
+  xmlns="http://cnx.rice.edu/collxml">
+
+  <col:metadata>
+    <md:uuid>87a985f3-654f-4946-a9e0-c309a1e4a50c</md:uuid>
+    <md:title>Marketing Test</md:title>
+    <md:slug>marketing-test</md:slug>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:content-id>col00000</md:content-id>
+    <md:language>language-code</md:language>
+  </col:metadata>
+  <col:content>
+
+  </col:content>
+</col:collection>
