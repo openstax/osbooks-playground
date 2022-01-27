@@ -1,4 +1,4 @@
 <container xmlns="https://openstax.org/namespaces/book-container" version="1">
-   <book slug="playground" href="../collections/playground.collection.xml" />
-   <book slug="marketing-test" href="../collections/marketing-test.collection.xml" />
+   <book slug="playground" style="dummy" href="../collections/playground.collection.xml" />
+   <book slug="marketing-test" style="dummy" href="../collections/marketing-test.collection.xml" />
 </container>
