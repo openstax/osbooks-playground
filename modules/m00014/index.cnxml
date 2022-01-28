@@ -6,5 +6,33 @@
     <md:uuid>3422a873-f289-4fbd-90ef-6048b1f2ca60</md:uuid>
   </metadata>
   <content>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Outcomes</title>
+      <para id="para-00001">By the end of this section you will be able to</para><list id="list-00001">
+          <item>Explain the first stage in the consumer purchasing decision process</item>
+          <item>Summarize the second stage in the consumer purchasing decision process</item>
+          <item>Describe the third stage in the consumer purchasing decision process</item>
+          <item>Discuss the fourth stage in the consumer purchasing decision process</item>
+          <item>Explain the fifth and final stage in the consumer purchasing decision process</item>
+        </list>
+      
+        <para id="para-00002">We’ve examined many of the factors that influence our consumer buying behavior, but behind the visible act of making a purchase lies an important decision process that takes place before, during and after the purchase of a product or service. Figure 3.12 shows the five stages of the <term id="term-00001">consumer decision process</term>.</para>
+
+        <figure id="fig-00001"><media alt="Insert Alt Text">
+          <image mime-type="image/jpg" src="../../media/frogue.jpg"/></media>
+          <caption>The Consumer Decision Process</caption>
+          </figure>
+
+        <para id="para-00003">The five stages of the Consumer Decision Process are the decisions a buyer passes through in making choices about which products or services to buy. Let’s examine each, starting at the beginning.</para>
+
+    </section>
   </content>
+
+  <glossary>
+    <definition id="def-00001">
+      <term>consumer decision process</term>
+      <meaning>the process through which consumers become aware of and identify their needs, collect information on how to be solve those needs, evaluate alternative options, make a purchasing decision, and evaluate their purchase</meaning>
+    </definition>
+  </glossary>
+
 </document>
