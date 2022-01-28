@@ -79,16 +79,16 @@
       </tgroup>
       </table>
 
-  <para id="para-00050"><emphasis>Answer:</emphasis>
-        Gross profit margin: 44%
+  <para id="para-00050"><emphasis>Answer:</emphasis><newline/>
+        Gross profit margin: 44%<newline/>
         Net profit margin: 24%</para>
     
-  <para id="para-00051">Which measure is more accurate?
-        <emphasis>Answer:</emphasis>
+  <para id="para-00051">Which measure is more accurate?<newline/>
+        <emphasis>Answer:</emphasis><newline/>
         Net profit margin considers all expenses, so it is a more accurate measure than gross profit margin that only considers COGS.</para>
     
-  <para id="para-00052">Your business partner, Priya, wants to decrease the revenue of a single order to $5.50. How will that impact your profit margins?
-        <emphasis>Answer:</emphasis>
+  <para id="para-00052">Your business partner, Priya, wants to decrease the revenue of a single order to $5.50. How will that impact your profit margins?<newline/>
+        <emphasis>Answer:</emphasis><newline/>
         Profitability per order will decrease if revenue decreases unless COGS or other expenses reduce in turn.</para>
   </note>
 </section>
@@ -246,6 +246,10 @@
 
 <para id="para-00039">Finally, your mood influences your buying behavior. Someone feeling sad or stressed interacts differently with products than a happy, relaxed shopper. The same can be said for someone who’s fatigued versus someone who’s full of energy.</para>
 </section>
+
+<section class="knowledge-check" id="sect-00009">
+  <exercise id="exer-00001"> ... </exercise>
+  </section>
 
 <section class="references" id="sect-00008">
   <title>Endnotes</title>
