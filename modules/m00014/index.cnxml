@@ -63,8 +63,28 @@
     </section>
 
     <section class="knowledge-check" id="sect-00007">
-      <exercise id="exer-00001"> ... </exercise>
-      </section>
+      <exercise id="exer-00001">
+        <problem id="prob-00001">
+        <para id="para-00017"><link class="os-embed" url="32118/marketing-test-1"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00002">
+        <problem id="prob-00002">
+        <para id="para-00018"><link class="os-embed" url="32119/marketing-test-2"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00003">
+        <problem id="prob-00003">
+        <para id="para-00019"><link class="os-embed" url="29350/OXTest-MC-01"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00004">
+        <problem id="prob-00004">
+        <para id="para-00020"><link class="os-embed" url="29351/OXTest-MC-02"/></para>
+        </problem>
+      </exercise>
+    </section>
+  
   </content>
 
   <glossary>
