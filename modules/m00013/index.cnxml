@@ -48,48 +48,57 @@
       
     <para id="para-00048">For more information on profit margins, check out <link url="https://www.youtube.com/watch?v=H6nrmFdlXc0">this video of the “Shadrach” song</link>.</para>
 
-    <para id="para-00049">Suppose your sandwich shop is interested in its profit margins for a single order. Look at the chart and calculate the gross and net profit margins.</para>
+    <exercise id="exer-00001">
+      <problem id="prob-00001">
+      <para id="para-00049">Suppose your sandwich shop is interested in its profit margins for a single order. Look at the chart and calculate the gross and net profit margins.</para>
+        <table class="data-table" summary="Put the table description here." id="table-00002">
+        <tgroup cols="2">
+        <thead>
+          <row>
+            <entry>Line Item</entry>
+            <entry>Financials</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Total revenue</entry>
+            <entry>$6.25</entry>
+          </row>
+          <row>
+            <entry>COGS</entry>
+            <entry>$3.50</entry>
+          </row>
+          <row>
+            <entry>Administrative, sales</entry>
+            <entry>$0.75</entry>
+          </row>
+          <row>
+            <entry>Taxes, depreciation, debt payments, amortization</entry>
+            <entry>$0.50</entry>
+          </row>
+        </tbody>
+        </tgroup>
+        </table>
+      </problem>
+      <solution id="sol-00001">
+      <para id="para-00050">Gross profit margin: 44%<newline/>
+      Net profit margin: 24%</para>
+      </solution>
+      
+      <problem id="prob-00002">
+      <para id="para-00051">Which measure is more accurate?</para>
+      </problem>
+      <solution id="sol-00002">
+      <para id="para-00052">Net profit margin considers all expenses, so it is a more accurate measure than gross profit margin that only considers COGS.</para>
+      </solution>
 
-    <table class="data-table" summary="Put the table description here." id="table-00002">
-      <tgroup cols="2">
-      <thead>
-        <row>
-          <entry>Line Item</entry>
-          <entry>Financials</entry>
-        </row>
-      </thead>
-      <tbody>
-        <row>
-          <entry>Total revenue</entry>
-          <entry>$6.25</entry>
-        </row>
-        <row>
-          <entry>COGS</entry>
-          <entry>$3.50</entry>
-        </row>
-        <row>
-          <entry>Administrative, sales</entry>
-          <entry>$0.75</entry>
-        </row>
-        <row>
-          <entry>Taxes, depreciation, debt payments, amortization</entry>
-          <entry>$0.50</entry>
-        </row>
-      </tbody>
-      </tgroup>
-      </table>
-
-  <para id="para-00050"><emphasis>Answer:</emphasis><newline/>
-        Gross profit margin: 44%<newline/>
-        Net profit margin: 24%</para>
-    
-  <para id="para-00051">Which measure is more accurate?<newline/>
-        <emphasis>Answer:</emphasis><newline/>
-        Net profit margin considers all expenses, so it is a more accurate measure than gross profit margin that only considers COGS.</para>
-    
-  <para id="para-00052">Your business partner, Priya, wants to decrease the revenue of a single order to $5.50. How will that impact your profit margins?<newline/>
-        <emphasis>Answer:</emphasis><newline/>
-        Profitability per order will decrease if revenue decreases unless COGS or other expenses reduce in turn.</para>
+      <problem id="prob-00003">
+      <para id="para-00053">Your business partner, Priya, wants to decrease the revenue of a single order to $5.50. How will that impact your profit margins?</para>
+      </problem>
+      <solution id="sol-00003">
+      <para id="para-00054">Profitability per order will decrease if revenue decreases unless COGS or other expenses reduce in turn.</para>
+      </solution>
+    </exercise>
   </note>
 </section>
 
@@ -248,8 +257,27 @@
 </section>
 
 <section class="knowledge-check" id="sect-00009">
-  <exercise id="exer-00001"> ... </exercise>
-  </section>
+  <exercise id="exer-00002">
+    <problem id="prob-00004">
+    <para id="para-00055"><link class="os-embed" url="32118/marketing-test-1"/></para>
+    </problem>
+  </exercise>
+  <exercise id="exer-00003">
+    <problem id="prob-00005">
+    <para id="para-00056"><link class="os-embed" url="32119/marketing-test-2"/></para>
+    </problem>
+  </exercise>
+  <exercise id="exer-00004">
+    <problem id="prob-00006">
+    <para id="para-00057"><link class="os-embed" url="29350/OXTest-MC-01"/></para>
+    </problem>
+  </exercise>
+  <exercise id="exer-00005">
+    <problem id="prob-00007">
+    <para id="para-00058"><link class="os-embed" url="29351/OXTest-MC-02"/></para>
+    </problem>
+  </exercise>
+</section>
 
 <section class="references" id="sect-00008">
   <title>Endnotes</title>
