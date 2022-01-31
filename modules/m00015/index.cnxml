@@ -29,14 +29,15 @@
       </section>
 
       <section id="sect-00004"><title>Are You an Ethical Consumer?</title>
-        <para id="para-00005">How much do you know about the companies whose products or services you use or buy? Does this knowledge influence what you buy and how you buy? Does buying a product mean you condone the actions of the producer? Consider one aspect of being an ethical consumer – being a technology consumer. Think about the following issues:</para><list id="list-00002"/>
+        <para id="para-00005">How much do you know about the companies whose products or services you use or buy? Does this knowledge influence what you buy and how you buy? Does buying a product mean you condone the actions of the producer? Consider one aspect of being an ethical consumer – being a technology consumer. Think about the following issues:</para><list id="list-00002">
           <item>Those almost-instant <term class="no-emphasis" id="term-00002">Amazon</term> deliveries are certainly convenient, but Amazon warehouse workers in Europe protested the company during <term class="no-emphasis" id="term-00003">Black Friday</term>, describing their working conditions as “inhumane.”</item>
           <item>You may have considered deleting <term class="no-emphasis" id="term-00004">Facebook</term> after the social network confessed that a political consulting firm had improperly obtained the data of millions of users. If that didn’t convince you, maybe the security breach exposing the data of 30 million Facebook accounts did.</item>
-          <item><term class="no-emphasis" id="term-00005">Google</term> came under fire from its own employees for working on a censored version of its search engine for <term class="no-emphasis" id="term-00006">China</term> and for protecting executives who were accused of sexual misconduct.</item>
+          <item><term class="no-emphasis" id="term-00005">Google</term> came under fire from its own employees for working on a censored version of its search engine for <term class="no-emphasis" id="term-00006">China</term> and for protecting executives who were accused of sexual misconduct.</item></list>
           
         <para id="para-00006">All of this “bad behavior” circles back to you, because we are the buyers, users and supporters of the products and services that help <term class="no-emphasis" id="term-00007">Big Tech</term> thrive. So, what do we do to become more ethical consumers? One way – and perhaps the most powerful way – to protest is to take your business elsewhere and ask your family and friends to go along. For example, a few years ago, hundreds of thousands of customers abandoned <term class="no-emphasis" id="term-00008">Uber</term> in favor of alternatives like <term class="no-emphasis" id="term-00009">Lyft</term> after Uber’s many scandals, including repeated accusations that it turned a blind eye to sexual harassment. The choice became a movement known as <term class="no-emphasis" id="term-00010">#DeleteUber</term>. More recently, people frustrated with Facebook took part in a <term class="no-emphasis" id="term-00011">#DeleteFacebook</term> campaign.</para>
           
         <para id="para-00007">The financial impact of these consumer actions may not have been huge, but damage to a brand may have plenty of repercussions because it motivates a company to change its behavior. Both Uber and Facebook, facing enormous pressure, have modified some of their practices and committed to making improvements.<cite id="rf-004-a" target-id="rf-004"><note class="delete-me" display="inline" id="note-00004"/></cite></para>
+      </section>
       </section>
 
       <note class="companies-conscience" id="note-00005">
@@ -46,7 +47,7 @@
           <caption>“Patagonia-Logo” by cbinco is licensed under CC BY-NC-NC 2.0</caption>
           </figure>
         
-          <para id="para-00008">If you’re looking for a company that’s a leader in environmental and social responsibility on many fronts, look no further than <term class="no-emphasis" id="term-00012">Patagonia</term>, a designer of outdoor clothing gear for the “silent sports” – climbing, surfing, skiing, snowboarding, fly fishing and trail running. Just start with Patagonia’s mission statement: “Build the best product, cause no unnecessary harm, use business to inspire and implement solutions to the environmental crisis.”</para> 
+        <para id="para-00008">If you’re looking for a company that’s a leader in environmental and social responsibility on many fronts, look no further than <term class="no-emphasis" id="term-00012">Patagonia</term>, a designer of outdoor clothing gear for the “silent sports” – climbing, surfing, skiing, snowboarding, fly fishing and trail running. Just start with Patagonia’s mission statement: “Build the best product, cause no unnecessary harm, use business to inspire and implement solutions to the environmental crisis.”</para> 
         
         <para id="para-00009">In addition to being fair-trade certified for all of its sewing production, the brand knows and publicly discloses all of its first-tier suppliers and is actively working to map out the rest down to the farm level for the raw materials used in its gear. Many consider Patagonia as an outdoor brand, but it offers products in many categories, from sundresses to skinny jeans.<cite id="rf-005-a" target-id="rf-005"><note class="delete-me" display="inline" id="note-00006"/></cite></para> 
         
@@ -54,12 +55,112 @@
         
         <para id="para-00011">Read more about Patagonia’s <link url="https://www.patagonia.com/our-footprint/supply-chain-environmental-responsibility-program.html">environmental responsibility program</link>.</para>
       </note>
-    </section>
     
+  
+    <section id="sect-00007"><title>Company Interactive</title>
+      <para id="para-00014">Lorem ipsum lorem ipsum [anchor text to interactive/simulation] lorem ipsum.</para>
+    </section>
+   
     <section class="summary" id="sect-00006">
       <para id="para-00012">In this chapter, we defined consumer markets and consumer buying behavior and discussed the “Buyer’s Black Box”, the concept that attempts to mark the pattern followed by consumers when making a purchase decision. We also categorized consumer buying behavior into 4 types: complex buying behavior, dissonance-reducing buying behavior, habitual buying behavior, and variety-seeking behavior.</para>
       
       <para id="para-00013">This chapter also looked at the cultural, social, personal, psychological and situational factors that influence consumer behavior and scrutinized the stages of the consumer decision process. Finally, we examined the role of ethics in consumer buying behavior and discussed ethical consumerism.</para>
+    </section>
+
+    <section class="critical-thinking" id="sect-00008">
+      <exercise id="exer-00001">
+        <problem id="prob-00001">
+          <para id="para-00015">Delve into McDonald’s, a company mentioned at the beginning of this chapter. Does McDonald’s have an environmental sustainability statement? If so, list evidence showing how McDonald’s carries out this policy.</para>
+        </problem>
+      </exercise>
+    </section>
+
+    <section class="marketers-do" id="sect-00009">
+      <para id="para-00016">Have you ever wondered where analysts gather consumer behavior data and how they make sense of it? One way to find out is to ask someone who currently does this job. Using LinkedIn, conduct a search for data analysts in your geographic area and invite one or more to Connect with you through the LinkedIn platform. Once connected, send a message to each one telling them who you are and that you’re a marketing student, and ask if you can have a 15-minute phone conversation with them to ask them about their job. Come prepared to the phone conversation with a list of questions you want to ask. Be prepared to go off script and ask questions that come to mind on the spot. You can learn a lot about various marketing careers and making great contacts by simply asking the right questions! What questions do you want to ask? You might consider some of the following:</para><list id="list-00003">
+        <item>How did you get started in this area of marketing?</item> 
+        <item>What sort of data do you analyze?</item>
+        <item>What happens after you conduct an analysis?</item> 
+        <item>Do you help make marketing decisions based on your analysis?</item> 
+        <item>What specific courses did you take to prepare you for this job/career?</item>
+      </list>
+    </section>
+
+    <section class="marketing-plan" id="sect-00010">
+      <para id="para-00017">For purposes of this marketing plan assignment, you will select an existing company and product about which you can readily obtain information. Because many large companies have diverse product lines, make sure to select one (1) product line that will be the focus of your marketing plan. For example, Procter &amp; Gamble has many product lines, from Olay skin care to Pampers diapers, Tide laundry detergent, Pantene hair care, Metamucil, Ivory soap, etc. If you were to select Procter &amp; Gamble for your marketing plan, you would select ONE of the products, not the company as a whole.</para>
+      <note class="word-document" id="note-00008">
+        <para id="para-00018">Visit this <link url="https://openstax.org/l/google">website</link> to download a marketing plan.</para>
+      </note>
+    </section>
+
+    <section class="company-case" id="sect-00011">
+      <section id="sect-00012">
+      <title>Wired Coffee Bar</title>
+        <figure id="fig-00003">
+          <media alt="Insert Alt Text">
+            <image mime-type="image/jpg" src="../../media/frogue.jpg"/>
+          </media>
+        <caption>Wired Coffee Bar Logo</caption>
+        </figure>
+        
+        <para id="para-00019">Early in life, the love for coffee blossomed. Through high school and college, Lisa worked in an upscale retail boutique. On the mornings Lisa opened the store, she grew to love the deep, rich smell of the coffee that would permeate the air from the local gourmet food store across from the boutique where she worked. Her love for coffee only deepened as she experienced local cafes throughout her travels while in college. In the back of her mind, she glamorized opening her own café.</para>
+       
+        <para id="para-00020">Throughout her early thirties, Lisa looked at locations, talked with coffee entrepreneurs, developed business feasibility studies and dreamed of one day having her own place. One big problem was finding the right geographical area where a small, independent coffee shop would be successful.</para>
+
+        <para id="para-00021">After moving for the fifth time, Lisa realized the new, growing community where she now lived with her two small children lacked one important thing – good coffee. The town was rapidly expanding and was the fastest growing community in the state of Tennessee. This might be the time and place to revisit the idea of a coffee shop.</para>
+
+        <para id="para-00022">Every feasibility study Lisa had done pointed to the need for strong community support. This new town had two important ingredients – college students and a burgeoning population. The area was abundant with many different church denominations, a few small, local colleges, and some new international businesses that had recently relocated to the community.</para>
+
+        <para id="para-00023">With no coffee shop in the town, Lisa believed her concept could be successful. Currently, if you wanted a coffee, the nearest place to grab a cup was a Starbucks, which was over twenty minutes away. Starbucks made coffee mainstream, but it seemed that sitting down to enjoy a cup of coffee was becoming a thing of the past. As more and more people began grabbing their coffee from the drive-thru, could a community coffee bar with a wide variety of seating options and complimentary Wi-Fi be successful?</para>
+
+        <para id="para-00024">Going forward with the idea, Lisa began to develop Wired Coffee Bar. Prior to opening, Lisa went to every local community event and provided free coffee for people to sample. Once the community had a taste of the coffee and an expectation for the opening, there was an eager clientele waiting in line on the first day of business. One customer even hugged Lisa to thank her for bringing coffee to the community.</para>
+
+        <para id="para-00025">The concept took off and soon Lisa was the purveyor of fine coffee. Wired Coffee Bar was widely supported by the community. The local churches loved to meet for a coffee drink and connect with friends and neighbors. Throughout the day, business was conducted at the tables over a coffee and into the evening hours college students gathered to study and talk with friends.</para>
+
+        <para id="para-00026">If you looked at the clientele throughout the day you could see the “grab and go” customers who came every morning to get their mochas, lattes, and cappuccinos. Into the late morning hours, the tables filled up with business meetings – builders and their new clients, PTA groups, pharmaceutical sales reps strategizing for the day and grabbing coffee for customers, and moms meeting for coffee before picking up kids at school. As the afternoon wore on, the seats would fill up with high school students meeting with tutors and friends to complete homework. The later evening hours had every seat filled with college students doing class projects or just “hanging” out with friends.</para>
+
+        <para id="para-00027">Wired Coffee Bar had a focused niche of coffee and community. The menu wasn’t complex. It featured just coffee – hot, iced, frozen. Wired also offered a variety of teas that could be served hot or iced. Along with the drink options customers could choose from a selection of sweet or savory locally baked muffins, scones, quiche, cookies, and coffee cakes. But Wired was not a restaurant they were a true coffee bar.</para>
+
+        <para id="para-00028">With a regular and steady customer base, Wired could see the busier times happening when school was in session and then summers saw a lighter revenue stream as the college students left and the local families took summer vacations out of town. The coffee business definitely needed the local support to offset the vacation schedules of the college students.</para>
+
+        <para id="para-00029">Just as Wired Coffee Bar was hitting its stride, new coffee shops started to enter the once dormant community. Each new coffee location offered a drive-thru, something Wired Coffee Bar never wants to be – fast food coffee. As Lisa looked at ways to create more business, provide good coffee, and differentiate from the masses, she wondered if her concept could survive the hustle and the need for quicker service and a less laid-back atmosphere.</para>
+
+        <para id="para-00030">For more information, please visit <link url="https://thewiredcoffeebar.com/">Wired Coffe Bar's online resources</link>.</para>
+      </section>
+      
+      <section id="sect-00013"><title>Case Questions</title>
+        <exercise id="exer-00002">
+          <problem id="prob-00002">
+            <para id="para-00031">What type of consumer buying behavior are consumers exhibiting when they are buying coffee?</para>
+          </problem>
+          <solution id="sol-00001">
+            <para id="para-00032">Students should include information on habitual buying which might include low involvement, generally lower cost items, and repeat purchase behavior.</para>
+          </solution> 
+        </exercise>
+        <exercise id="exer-00003">
+          <problem id="prob-00003">
+            <para id="para-00033">Consumers are faced with many different influences when they are making purchasing decisions. What Social Influences have the greatest impact on the decision to purchase coffee from Wired Coffee Bar? What Personal Influences have the greatest impact?</para>
+          </problem>
+          <solution id="sol-00002">
+            <para id="para-00034">Social: Patrons are influenced by friends and family. Personal: Economic issues as well as lifestyle and age may be influencers for choosing Wired Coffee Bar.</para>
+          </solution> 
+        </exercise>
+        <exercise id="exer-00004">
+          <problem id="prob-00004">
+            <para id="para-00035">What situational factors may influence consumers to purchase from Wired Coffee Bar versus Starbucks?</para>
+          </problem>
+          <solution id="sol-00003">
+            <para id="para-00036">Consumers may choose Wired based on mood and social situation and they may choose Starbucks based on goals and timing.</para>
+          </solution> 
+        </exercise>
+        <exercise id="exer-00005">
+          <problem id="prob-00005">
+            <para id="para-00037">How might Wired further differentiate itself from other coffee bars as consumers search for alternatives in their buyer decision making process?</para>
+          </problem>
+          <solution id="sol-00004">
+            <para id="para-00038">Wired should focus on the unique experience, the variety of seating options, the hand-crafted drinks, and other items they cannot find at a fast food chain, such as locally baked pastries.</para>
+          </solution> 
+        </exercise>
+      </section>
     </section>
 
     <section class="references" id="sect-00005">
@@ -72,5 +173,5 @@
       <note id="rf-006"><link target-id="rf-006-a"><span>*</span></link><span>This is an endnote.</span></note>
     </section>
 
-  </content>
+ </content>
 </document>
