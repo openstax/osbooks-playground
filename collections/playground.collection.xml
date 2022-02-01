@@ -10,17 +10,22 @@
   <content>
     <module document="m00001"/>
     <subcollection>
-      <md:title>Test Chapter</md:title>
+      <md:title>Unit Test Title</md:title>
       <content>
-        <module document="m00002"/>
-        <module document="m00003"/>
-        <module document="m00004"/>
-        <module document="m00005"/>
-        <module document="m00006"/>
-        <module document="m00007"/>
-        <module document="m00008"/>
-        <module document="m00009"/>
-        <module document="m00010"/>
+        <subcollection>
+          <md:title>Test Chapter</md:title>
+          <content>
+            <module document="m00002"/>
+            <module document="m00003"/>
+            <module document="m00004"/>
+            <module document="m00005"/>
+            <module document="m00006"/>
+            <module document="m00007"/>
+            <module document="m00008"/>
+            <module document="m00009"/>
+            <module document="m00010"/>
+          </content>
+        </subcollection>
       </content>
     </subcollection>
   </content>
