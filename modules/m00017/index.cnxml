@@ -1,0 +1,20 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="appendix">
+  <title>Testing An Appendix</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Testing An Appendix</md:title>
+    <md:content-id>m00017</md:content-id>
+    <md:uuid>b0974aa9-9973-42ab-a037-bdefffc4795b</md:uuid>
+  </metadata>
+  <content class="appendix">
+  <section id="sect-00001">
+  <title>Testing Testing Titles.</title>
+  <para id="para-00001">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper, ante id finibus vestibulum, justo neque rhoncus diam, ac sollicitudin augue tellus vehicula est. Curabitur eu auctor est. Quisque tempus sapien ut congue laoreet. Sed tempus ligula ipsum, at dignissim lorem dictum nec. Pellentesque vehicula, neque vel luctus ultrices, massa odio consectetur leo, non condimentum ex turpis eu ex. Morbi mollis orci vitae massa faucibus, vel tristique lorem pulvinar. Nulla dapibus, nulla eu bibendum commodo, arcu ligula scelerisque erat, a dictum ligula odio ac orci. Nulla ultrices leo sed tempor ullamcorper. Nulla id lorem quis turpis porttitor euismod a eget neque. Maecenas bibendum, lacus eu efficitur pellentesque, risus ipsum venenatis massa, ac finibus lorem quam eget velit. Nam lorem urna, gravida a finibus quis, condimentum vitae erat. Maecenas mattis sagittis diam, vitae faucibus mi mollis nec. Sed eget ligula lorem. Praesent convallis odio sed convallis sodales. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas pharetra mauris nec mattis consectetur.</para>
+  <para id="para-00002">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper, ante id finibus vestibulum, justo neque rhoncus diam, ac sollicitudin augue tellus vehicula est. Curabitur eu auctor est. Quisque tempus sapien ut congue laoreet. Sed tempus ligula ipsum, at dignissim lorem dictum nec. Pellentesque vehicula, neque vel luctus ultrices, massa odio consectetur leo, non condimentum ex turpis eu ex. Morbi mollis orci vitae massa faucibus, vel tristique lorem pulvinar. Nulla dapibus, nulla eu bibendum commodo, arcu ligula scelerisque erat, a dictum ligula odio ac orci. Nulla ultrices leo sed tempor ullamcorper. Nulla id lorem quis turpis porttitor euismod a eget neque. Maecenas bibendum, lacus eu efficitur pellentesque, risus ipsum venenatis massa, ac finibus lorem quam eget velit. Nam lorem urna, gravida a finibus quis, condimentum vitae erat. Maecenas mattis sagittis diam, vitae faucibus mi mollis nec. Sed eget ligula lorem. Praesent convallis odio sed convallis sodales. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas pharetra mauris nec mattis consectetur.</para>
+   <figure id="fig-00001"><media alt="Insert Alt Text">
+   <title>Is this a picture of a frogt?</title>
+          <image mime-type="image/jpg" src="../../media/frogue.jpg"/></media>
+          <caption>This is a picture of a frog.</caption>
+          </figure>
+  </section>
+  </content>
+</document>
