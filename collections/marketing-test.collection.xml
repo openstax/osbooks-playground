@@ -8,15 +8,22 @@
     <md:language>en</md:language>
   </col:metadata>
   <content>
+    <module document="m00001"/>
     <subcollection>
-      <md:title>Consumer Markets and Purchasing Behavior</md:title>
+      <md:title>Title for Unit Test</md:title>
       <content>
-        <module document="m00011"/>
-        <module document="m00012"/>
-        <module document="m00013"/>
-        <module document="m00014"/>
-        <module document="m00015"/>
+        <subcollection>
+          <md:title>Consumer Markets and Purchasing Behavior</md:title>
+          <content>
+            <module document="m00011"/>
+            <module document="m00012"/>
+            <module document="m00013"/>
+            <module document="m00014"/>
+            <module document="m00015"/>
+          </content>
+        </subcollection>
       </content>
     </subcollection>
+    <module document="m00017"/>
   </content>
 </col:collection>

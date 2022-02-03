@@ -15,7 +15,7 @@
   </list>
   <para id="para-00002">When a polling organization wants to try to establish which candidate will win an upcoming election, their first steps are to write the questions for their survey and to choose which people will be asked to respond to the survey questions. These can seem like simple steps, but they have far-reaching implications in the analysis the pollsters will later carry out. The process by which <term id="term-00001">samples</term> (or groups of <term id="term-00002">units</term>) are chosen can strongly affect the <term id="term-00003">data</term> that are collected.</para>
   <note class="definition" id="note-00001">
-  <para id="para-00003">A sample is a group of units from which we collect data.</para>
+  <para id="para-00003">A sample is a group of units from which we collect data.<footnote id="foot-00001">This is a footnote test</footnote></para>
   <para id="para-00004">Units are anything that can be measured or surveyed, including people, animals, objectives, experiments, and more.</para>
   <para id="para-00005">Data are observations made on units. They can be measurements taken with a scientific instrument, responses to a question, or any other property of a unit that the researcher can observe or measure.</para>
   </note>
@@ -84,8 +84,8 @@
   </note>
   <note class="people-mathematics" id="note-00008">
   <title>George Gallup</title>
-  
-  <para id="para-00023">George Gallup (1901 – 1984) rose to fame in 1936 when his prediction of the percentage of the vote going to each candidate in that year’s U.S. Presidential election was more accurate than the one published in <emphasis effect="italic">Literary Digest</emphasis>, and he did so using a sample that was much smaller than the <emphasis effect="italic">Digest</emphasis>. He even took it one step farther, predicting with high accuracy the erroneous results of the poll that the <emphasis effect="italic">Literary Digest</emphasis> would end up publishing! Gallup’s theories on public opinion polling essentially created that field. In 1948, Gallup’s reputation took a bit of a hit, when he famously, but incorrectly, predicted that Thomas Dewey would beat incumbent Harry Truman in that year’s Presidential election. Over the following decades, however, public trust in Gallup’s polls recovered and even steadily increased. The company Gallup founded continues to conduct daily public opinion polls, as well as provides consulting services for businesses (find it at <link url="https://openstax.org/r/Gallup">https://openstax.org/r/Gallup</link>).</para>
+
+  <para id="para-00023">George Gallup (1901 – 1984) rose to fame in 1936 when his prediction of the percentage of the vote going to each candidate in that year’s U.S. Presidential election was more accurate than the one published in <emphasis effect="italic">Literary Digest</emphasis>, and he did so using a sample that was much smaller than the <emphasis effect="italic">Digest</emphasis>. He even took it one step farther, predicting with high accuracy the erroneous results of the poll<footnote id="foot-00002">This is another footnote test.</footnote> that the <emphasis effect="italic">Literary Digest</emphasis> would end up publishing! Gallup’s theories on public opinion polling essentially created that field. In 1948, Gallup’s reputation took a bit of a hit, when he famously, but incorrectly, predicted that Thomas Dewey would beat incumbent Harry Truman in that year’s Presidential election. Over the following decades, however, public trust in Gallup’s polls recovered and even steadily increased. The company Gallup founded continues to conduct daily public opinion polls, as well as provides consulting services for businesses (find it at <link url="https://openstax.org/r/Gallup">https://openstax.org/r/Gallup</link>).</para>
   </note>
   </section>
   <section id="sect-00003">
