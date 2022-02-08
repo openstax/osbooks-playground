@@ -56,15 +56,15 @@
 
     <para id="para-00013">The break-even formula is calculated by dividing the total fixed costs by the production unit price minus variable unit costs. The break-even point in units will tell a marketer exactly how many units must be sold in order to start making a profit. </para>
 
-    <equation id="eq-00001">Break-Even Units = Fixed Costs/(Unit price-variable unit cost)</equation>
+    <equation id="eq-00001"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>Break-Even Units = Fixed Costs/(Unit price-variable unit cost)</mtext></math></equation>
 
-    <para id="para-00014">Assume you are opening your new gourmet cookie shop and have estimated your projected costs. You’d like to know how many units you must sell in order to break even, then start making a profit. Let’s assume your fixed costs are $20,000. This includes rent, deliveries, ingredients, and new signage. You have estimated your variable costs to be $1.50 per unit, or cookie. You plan to charge $2.00 per cookie. How many units must you sell to break even? Using the formula above, you find that you must sell 40,000 cookies in order to break-even.</para>
+    <para id="para-00014" xmlns="http://cnx.rice.edu/cnxml">Assume you are opening your new gourmet cookie shop and have estimated your projected costs. You’d like to know how many units you must sell in order to break even, then start making a profit. Let’s assume your fixed costs are $20,000. This includes rent, deliveries, ingredients, and new signage. You have estimated your variable costs to be $1.50 per unit, or cookie. You plan to charge $2.00 per cookie. How many units must you sell to break even? Using the formula above, you find that you must sell 40,000 cookies in order to break-even.</para>
 
-    <equation id="eq-00002">Break-Even Units = $20,000 / ($2.00 - $1.50) = $20,000 / ($0.50) = 40,000 units</equation>
+    <equation id="eq-00002"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>Break-Even Units = $20,000 / ($2.00 - $1.50) = $20,000 / ($0.50) = 40,000 units</mtext></math></equation>
     </section>
     </section>
 
-  <section id="sect-00005"><title>The Elements of a Marketing Plan</title>
+  <section id="sect-00005" xmlns="http://cnx.rice.edu/cnxml"><title>The Elements of a Marketing Plan</title>
   <para id="para-00015">There is no single correct way to write a marketing plan. The scope of the plan will depend on the stage of the lifecycle, the strategic importance of the offering to the organization, and standardized planning requirements of the organization. With a minor product release, or a slight change in focus, only a short update might be required. If we are planning a new product launch, for a product that will become a flagship offering, and significant investment in product development, marketing, and sales will be required, then the marketing plan may need to be substantial. Some organizations require a formal marketing plan or scope document for every product release - big or small. In general, the larger the financial and strategic risk, the more documentation that is usually required. Below is information on how best to prepare a marketing plan.</para>
 
       <note class="word-document" id="note-00001">

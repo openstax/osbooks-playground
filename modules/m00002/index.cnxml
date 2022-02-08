@@ -10,7 +10,6 @@
       <media alt="Insert Alt Text">
       <image mime-type="image/jpg" src="../../media/Photo_8.1.jpg"/>
       </media>
-      <caption>Photo 8.1:</caption>
       </figure>
       <para id="para-00001">In the months preceding an election, news outlets report on the results of political polling every day. These polls purport to let the public know which candidate is currently “leading;” generally, that’s the candidate who would win if the election were held on the day the polling data were collected. Then, on the night of the election, news organizations will “declare” a winner before all the votes are even counted (and sometimes with a <emphasis effect="italic">different</emphasis> candidate leading among the votes that have been counted). What gives reporters the confidence to make these predictions? They’re using statistics to make informed decisions based on incomplete information. In this chapter, we’ll explore some of these statistical techniques so that we can be better consumers of information.</para>
   </content>
