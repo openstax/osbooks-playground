@@ -1,4 +1,5 @@
 <container xmlns="https://openstax.org/namespaces/book-container" version="1">
    <book slug="playground" style="dummy" href="../collections/playground.collection.xml" />
    <book slug="marketing-test" style="dummy" href="../collections/marketing-test.collection.xml" />
+<book slug="cayla-playground" style="dummy" href="../collections/cayla-playground.collection.xml" />
 </container>
