@@ -1,33 +1,33 @@
-<col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:sys="http://cnx.rice.edu/system-info" xmlns="http://cnx.rice.edu/collxml">
+<col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/collxml">
   <col:metadata>
-    <md:uuid>00000000-0000-0000-0000-000000000000</md:uuid>
     <md:title>test book</md:title>
-    <md:content-id>col000000</md:content-id>
-    <md:language>es</md:language>
     <md:slug>playground</md:slug>
-    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>es</md:language>
+    <md:uuid>00000000-0000-0000-0000-000000000000</md:uuid>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/"/>
   </col:metadata>
-  <content>
-    <module document="m00001"/>
-    <subcollection>
+  <col:content>
+    <col:module document="m00018"/>
+    <col:module document="m00001"/>
+    <col:subcollection>
       <md:title>Unit Test Title</md:title>
-      <content>
-        <subcollection>
+      <col:content>
+        <col:subcollection>
           <md:title>Test Chapter</md:title>
-          <content>
-            <module document="m00002"/>
-            <module document="m00003"/>
-            <module document="m00004"/>
-            <module document="m00005"/>
-            <module document="m00006"/>
-            <module document="m00007"/>
-            <module document="m00008"/>
-            <module document="m00009"/>
-            <module document="m00010"/>
-          </content>
-        </subcollection>
-      </content>
-    </subcollection>
-    <module document="m00017"/>
-  </content>
+          <col:content>
+            <col:module document="m00002"/>
+            <col:module document="m00003"/>
+            <col:module document="m00004"/>
+            <col:module document="m00005"/>
+            <col:module document="m00006"/>
+            <col:module document="m00007"/>
+            <col:module document="m00008"/>
+            <col:module document="m00009"/>
+            <col:module document="m00010"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m00017"/>
+  </col:content>
 </col:collection>
