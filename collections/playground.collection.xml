@@ -7,6 +7,10 @@
     <md:license url="http://creativecommons.org/licenses/by/4.0/"/>
   </col:metadata>
   <col:content>
+    <col:subcollection>
+      <md:title>Rule Britannia! The English Empire, 1660-1763</md:title>
+      <col:content/>
+    </col:subcollection>
     <col:module document="m00018"/>
     <col:module document="m00001"/>
     <col:subcollection>

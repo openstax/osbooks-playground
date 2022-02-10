@@ -16,5 +16,17 @@
         <col:module document="m00022"/>
       </col:content>
     </col:subcollection>
+    <col:subcollection>
+      <md:title>Rule Britannia! The English Empire, 1660–1763</md:title>
+      <col:content>
+        <col:module document="m00023"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Welcome to Economics!</md:title>
+      <col:content>
+        <col:module document="m00024"/>
+      </col:content>
+    </col:subcollection>
   </col:content>
 </col:collection>
