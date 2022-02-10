@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
   <title>Introduction</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:content-id>m00019</md:content-id>
@@ -15,12 +15,14 @@
     </figure>
 
     <section id="sect-00001">
+     <!-- This is how I created the chapter outline, but I've commented it out after reviewing the tagging legend for US History.
       <title class="chapter outline">Chapter Outline</title>
       <list display="none" id="list-00001">
         <item><link document="m00020">1.1 The Americas</link></item>
         <item><link document="m00021">1.2 Europe on the Brink of Change</link></item>
         <item><link document="m00022">1.3 West Africa and the Role of Slavery</link></item>
       </list>
+    -->
 <para id="para-00001">
   Globalization, the ever-increasing interconnectedness of the world, is not a new phenomenon, but it accelerated when western Europeans discovered the riches of the East. During the Crusades (1095–1291), Europeans developed an appetite for spices, silk, porcelain, sugar, and other luxury items from the East, for which they traded fur, timber, and Slavic people they captured and sold (hence the word <emphasis effect="italics">slave</emphasis>). But when the Silk Road, the long overland trading route from China to the Mediterranean, became costlier and more dangerous to travel, Europeans searched for a more efficient and inexpensive trade route over water, initiating the development of what we now call the Atlantic World.
 </para>
