@@ -6,8 +6,8 @@
     <md:uuid>19e28b45-a9d4-4c76-af93-b15764780768</md:uuid>
   </metadata>
 
-  <content>
-    <figure id="CNX_History_01_00_OldMap">
+  <content class="introduction">
+    <figure id="CNX_History_01_00_OldMap" class="splash">
       <media alt="A hand-drawn map of the world divided into twelve segments. The name America is placed on what is now called South America on the main map. The New World land masses are smaller and inaccurate compared to contemporary maps.">
         <image mime-type="image/jpeg" src="../../media/CNX_History_01_00_OldMap.jpg"/>
       </media>
