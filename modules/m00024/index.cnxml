@@ -243,7 +243,7 @@
         <entry>45.9</entry>
       </row>
       <row>
-        <entry namest="c1" nameend="c7">Lower Income Countries</entry>
+        <entry namest="c1" nameend="c7"><emphasis>Lower Income Countries</emphasis></entry>
       </row>
       <row>
         <entry>Chad</entry>
@@ -295,9 +295,21 @@
   Despite the rise in globalization over the last few decades, in recent years we've seen significant pushback against globalization from people across the world concerned about loss of jobs, loss of political sovereignty, and increased economic inequality. Prominent examples of this pushback include the 2016 vote in Great Britain to exit the European Union (i.e. Brexit), and the election of Donald J. Trump for President of the United States.
 </para>
 <para id="para-00019">
-  Hopefully, you now have an idea about economics. Before you move to any other chapter of study, be sure to read the very important appendix to this chapter called <link>The Use of Mathematics in Principles of Economics</link>. It is essential that you learn more about how to read and use models in economics.
+  Hopefully, you now have an idea about economics. Before you move to any other chapter of study, be sure to read the very important appendix to this chapter called <!-- <link document="m63990">The Use of Mathematics in Principles of Economics</link>. --> It is essential that you learn more about how to read and use models in economics.
 </para>
-
+<note class="economics bringhome" id="note-00002">
+<label>BRING IT HOME</label>
+<title>Decisions ... Decisions in the Social Media Age</title>
+<para id="para-00020">
+  The world we live in today provides nearly instant access to a wealth of information. Consider that as recently as the late 1970s, the <emphasis effect="italics">Farmer’s Almanac</emphasis>, along with the Weather Bureau of the U.S. Department of Agriculture, were the primary sources American farmers used to determine when to plant and harvest their crops. Today, farmers are more likely to access, online, weather forecasts from the National Oceanic and Atmospheric Administration or watch the Weather Channel. After all, knowing the upcoming forecast could drive when to harvest crops. Consequently, knowing the upcoming weather could change the amount of crop harvested.
+</para>
+<para id="para-00021">
+  Some relatively new information forums, such as Facebook, are rapidly changing how information is distributed; hence, influencing decision making. In 2014, the Pew Research Center reported that 71% of online adults use Facebook. This social media forum posts topics ranging from the National Basketball Association, to celebrity singers and performers, to farmers.
+</para>
+<para id="para-00022">
+  Information helps us make decisions as simple as what to wear today to how many reporters the media should send to cover a crash. Each of these decisions is an economic decision. After all, resources are scarce. If the media send ten reporters to cover an accident, they are not available to cover other stories or complete other tasks. Information provides the necessary knowledge to make the best possible decisions on how to utilize scarce resources. Welcome to the world of economics!
+</para>
+</note>
 </section>
   
   </content>
