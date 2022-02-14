@@ -28,5 +28,15 @@
         <col:module document="m00024"/>
       </col:content>
     </col:subcollection>
+    <col:subcollection>
+      <md:title>Introduction: The Nature of Science and Physics</md:title>
+      <col:content>
+        <col:module document="m00026"/>
+        <col:module document="m00027"/>
+        <col:module document="m00028"/>
+        <col:module document="m00029"/>
+        <col:module document="m00030"/>
+      </col:content>
+    </col:subcollection>
   </col:content>
 </col:collection>
