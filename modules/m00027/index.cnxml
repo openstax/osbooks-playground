@@ -187,7 +187,34 @@
   <term id="term-00006">Modern physics</term> itself consists of the two revolutionary theories, relativity and quantum mechanics. These theories deal with the very fast and the very small, respectively. <term id="term-00007">Relativity</term> must be used whenever an object is traveling at greater than about 1% of the speed of light or experiences a strong gravitational field such as that near the Sun. <term id="term-00008">Quantum mechanics</term> must be used for objects smaller than can be seen with a microscope. The combination of these two theories is <emphasis effect="italics">relativistic quantum mechanics</emphasis>, and it describes the behavior of small objects traveling at high speeds or experiencing a strong gravitational field. Relativistic quantum mechanics is the best universally applicable theory we have. Because of its mathematical complexity, it is used only when necessary, and the other theories are used whenever they will produce sufficiently accurate results. We will find, however, that we can do a great deal of modern physics with the algebra and trigonometry used in this text.
 </para>
 </section>
-
-
+<section id="sect-00005">
+  <exercise id="exer-00001">
+    <problem id="prob-00001">
+<para id="para-00025">
+  <title>Check Your Understanding</title>
+  A friend tells you he has learned about a new law of nature. What can you know about the information even before your friend describes the law? How would the information be different if your friend told you he had learned about a scientific theory rather than a law?
+</para>
+</problem>
+<solution id="sol-00001">
+<para id="para-00026">
+  <title class="solution">Solution</title>
+  Without knowing the details of the law, you can still infer that the information your friend has learned conforms to the requirements of all laws of nature: it will be a concise description of the universe around us; a statement of the underlying rules that all natural processes follow. If the information had been a theory, you would be able to infer that the information will be a large-scale, broadly applicable generalization.
+</para>
+</solution>
+</exercise>
+</section>
+<note class="phetexplorations-embedded" id="note-00004">
+  <label>PHET EXPLORATIONS</label>
+  <title>Equation Grapher</title>
+  <para id="para-00027">
+    Learn about graphing polynomials. The shape of the curve changes as the constants are adjusted. View the curves for the individual terms (e.g.  𝑦=𝑏𝑥 ) to see how they add to generate the polynomial curve.
+  </para>
+<figure id="graphing_polynomials">
+  <label>Click to View Content</label>
+<media alt="Learn about graphing polynomials.">
+  <iframe src="https://openstax.org/l/02equation_grapher"/>
+</media>
+</figure>
+</note>
   </content>
 </document>
