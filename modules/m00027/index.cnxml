@@ -217,4 +217,43 @@
 </figure>
 </note>
   </content>
+
+  <glossary>
+    <definition id="def-00001">
+      <term>physics</term>
+      <meaning>the science concerned with describing the interactions of energy, matter, space, and time; it is especially interested in what fundamental mechanisms underlie every phenomenon</meaning>
+    </definition>
+<definition id="def-00002">
+  <term>model</term>
+  <meaning>representation of something that is often too difficult (or impossible) to display directly</meaning>
+</definition>
+<definition id="def-00003">
+  <term>law</term>
+  <meaning>a description, using concise language or a mathematical formula, a generalized pattern in nature that is supported by scientific evidence and repeated experiments</meaning>
+</definition>
+<definition id="def-00004">
+  <term>theory</term>
+  <meaning>an explanation for patterns in nature that is supported by scientific evidence and verified multiple times by various groups of researchers</meaning>
+</definition>
+<definition id="def-00005">
+  <term>scientific method</term>
+  <meaning>a method that typically begins with an observation and question that the scientist will research; next, the scientist typically performs some research about the topic and then devises a hypothesis; then, the scientist will test the hypothesis by performing an experiment; finally, the scientist analyzes the results of the experiment and draws a conclusion</meaning>
+</definition>
+<definition id="def-00006">
+  <term>classical physics</term>
+  <meaning>physics that was developed from the Renaissance to the end of the 19th century</meaning>
+</definition>
+<definition id="def-00007">
+  <term>modern physics</term>
+  <meaning>the study of relativity, quantum mechanics, or both</meaning>
+</definition>
+<definition id="def-00008">
+  <term>relativity</term>
+  <meaning>the study of objects moving at speeds greater than about 1% of the speed of light, or of objects being affected by a strong gravitational field</meaning>
+</definition>
+<definition id="def-00009">
+  <term>quantum mechanics</term>
+  <meaning>the study of objects smaller than can be seen with a microscope</meaning>
+</definition>
+  </glossary>
 </document>
