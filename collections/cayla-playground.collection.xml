@@ -25,6 +25,7 @@
     <col:subcollection>
       <md:title>Welcome to Economics!</md:title>
       <col:content>
+        <col:module document="m00031"/>
         <col:module document="m00024"/>
       </col:content>
     </col:subcollection>

@@ -256,4 +256,29 @@
   <meaning>the study of objects smaller than can be seen with a microscope</meaning>
 </definition>
   </glossary>
+
+  <section class="section-summary" id="sect-00006">
+    <title>Summary</title>
+    <list id="list-00001">
+      <item>Science seeks to discover and describe the underlying order and simplicity in nature.</item>
+      <item>Physics is the most basic of the sciences, concerning itself with energy, matter, space and time, and their interactions.</item>
+      <item>Scientific laws and theories express the general truths of nature and the body of knowledge they encompass. These laws of nature are rules that all natural processes appear to follow.</item>
+    </list>
+  </section>
+
+  <section class="conceptual-questions" id="sect-00007">
+    <title>Conceptual Question</title>
+    <list type="enumerated" id="list-00002">
+      <item>Models are particularly useful in relativity and quantum mechanics, where conditions are outside those normally encountered by humans. What is a model?</item>
+      <item>How does a model differ from a theory?</item>
+      <item>If two different theories describe experimental observations equally well, can one be said to be more valid than the other (assuming both use accepted rules of logic)?</item>
+      <item>What determines the validity of a theory?</item>
+      <item>Certain criteria must be satisfied if a measurement or observation is to be believed. Will the criteria necessarily be as strict for an expected result as for an unexpected result?</item>
+      <item>Can the validity of a model be limited, or must it be universally valid? How does this compare to the required validity of a theory or a law?</item>
+      <item>Classical physics is a good approximation to modern physics under certain circumstances. What are they?</item>
+      <item>When is it <emphasis effect="italics">necessary</emphasis> to use relativistic quantum mechanics?</item>
+      <item>Can classical physics be used to accurately describe a satellite moving at a speed of 7500 m/s? Explain why or why not.</item>
+    </list>
+  </section>
+
 </document>
