@@ -2,4 +2,6 @@
    <book slug="playground" style="dummy" href="../collections/playground.collection.xml" />
    <book slug="marketing-test" style="dummy" href="../collections/marketing-test.collection.xml" />
 <book slug="cayla-playground" style="dummy" href="../collections/cayla-playground.collection.xml" />
+   <book slug="cayla-econ-playground" style="dummy" href="../collections/cayla-econ-playground.collection.xml" />
+   <book slug="cayla-physics-playground" style="dummy" href="../collections/cayla-physics-playground.collection.xml" />
 </container>
