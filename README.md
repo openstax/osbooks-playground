@@ -11,6 +11,7 @@ To edit this book in Gitpod, click [here](https://gitpod.io/#https://github.com/
 If you want to add a new collection (new book) to the POET playground, you need to update the following sections:
   - A new line in the `META-INF/books.xml`
   - A new `{slug}.collection.xml`, which can be copied from https://github.com/openstax/template-osbooks-new/
+    - The relevant fields will need to be updated in collection.xml (slug, title, UUID, license, language).
   - Add the slug to the `cannonical.json`
 
 ## Refreshing repo
