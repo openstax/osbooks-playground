@@ -29,6 +29,10 @@
           <audio mime-type="audio/mpeg" src="http://rionsanura.com/music/Rainbow.mp3"/>
          </media>
 
+        <media id="priviledge_pie" alt="Priviledge pie exercise">
+          <video mime-type="video/mp4" src="priviledge_pie.mp4" autoplay="false" width="320" height="260"/>
+        </media>
+
         <para id="para-00004">Unlike many fast-food chains, <term class="no-emphasis" id="term-00001">Chipotle</term> focuses on quality of ingredients over everything else. Chipotle sources local and sustainably-raised ingredients, dedicating itself to a company-wide goal of working with family farmers within a 130-mile radius of each location. Additionally, the brand has publicly committed to using non-GMO and ethically-raised ingredients, and that’s a clever PR move amidst a huge cultural shift of wanting better-made food in the U.S. It’s also a great way to stand out from the competition.<cite id="rf-003-a" target-id="rf-003"><note class="delete-me" display="inline" id="note-00003"/></cite></para>
       </section>
 
