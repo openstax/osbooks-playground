@@ -1,33 +1,13 @@
 <col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/collxml">
   <col:metadata>
-    <md:title>test book</md:title>
+    <md:title>Playground</md:title>
     <md:slug>playground</md:slug>
-    <md:language>es</md:language>
+    <md:language>en</md:language>
+    <md:content-id>col555</md:content-id>
     <md:uuid>00000000-0000-0000-0000-000000000000</md:uuid>
     <md:license url="http://creativecommons.org/licenses/by/4.0/"/>
   </col:metadata>
   <col:content>
-    <col:module document="m00018"/>
     <col:module document="m00001"/>
-    <col:subcollection>
-      <md:title>Unit Test Title</md:title>
-      <col:content>
-        <col:subcollection>
-          <md:title>Test Chapter</md:title>
-          <col:content>
-            <col:module document="m00002"/>
-            <col:module document="m00003"/>
-            <col:module document="m00004"/>
-            <col:module document="m00005"/>
-            <col:module document="m00006"/>
-            <col:module document="m00007"/>
-            <col:module document="m00008"/>
-            <col:module document="m00009"/>
-            <col:module document="m00010"/>
-          </col:content>
-        </col:subcollection>
-      </col:content>
-    </col:subcollection>
-    <col:module document="m00017"/>
   </col:content>
 </col:collection>
