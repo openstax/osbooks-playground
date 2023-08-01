@@ -1,0 +1,13 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Math Testing</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Math Testing</md:title>
+    <md:content-id>m00006</md:content-id>
+    <md:uuid>823762c5-6f5f-4e05-8231-ed535196957f</md:uuid>
+  </metadata>
+  <content>
+<para id="para-00001">
+<m:math><m:mrow><m:mn>3</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>9</m:mn><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>5</m:mn><m:mo>-</m:mo><m:mo>(</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>3</m:mn><m:mo>)</m:mo></m:mrow></m:math>
+</para>
+</content>
+</document>
