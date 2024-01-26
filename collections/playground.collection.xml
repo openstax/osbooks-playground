@@ -3,11 +3,11 @@
     <md:title>Playground</md:title>
     <md:slug>playground</md:slug>
     <md:language>en</md:language>
-    <md:content-id>col555</md:content-id>
     <md:uuid>00000000-0000-0000-0000-000000000000</md:uuid>
     <md:license url="http://creativecommons.org/licenses/by/4.0/"/>
   </col:metadata>
   <col:content>
+    <col:module document="m00002"/>
     <col:module document="m00001"/>
   </col:content>
 </col:collection>
