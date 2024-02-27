@@ -1,4 +1,4 @@
 [submodule "private"]
 	path = private
-	url = https://github.com/TylerZeroMaster/private-submodule-test.git
-	branch = osbooks-playground-main2
+	url = https://github.com/openstax/cat-private-submodule.git
+	branch = osbooks-playground
