@@ -1,7 +1,9 @@
 {
   "media": {
     "type": {
-      "params": {}
+      "params": {
+        
+      }
     },
     "disableImageZooming": false
   },
