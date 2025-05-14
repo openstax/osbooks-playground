@@ -4,9 +4,11 @@
     "customizations": {
         "vscode": {
             "extensions": [
+                "openstax.cat",
                 "openstax.editor",
                 "redhat.vscode-xml"
             ]
         }
-    }
+    },
+    "forwardPorts": [27149]
 }
