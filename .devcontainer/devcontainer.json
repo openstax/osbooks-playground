@@ -1,0 +1,11 @@
+{
+    "name": "osbooks-playground",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "openstax.editor",
+                "redhat.vscode-xml"
+            ]
+        }
+    }
+}
