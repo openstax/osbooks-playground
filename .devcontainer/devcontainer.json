@@ -1,5 +1,6 @@
 {
     "name": "osbooks-playground",
+	"image": "mcr.microsoft.com/devcontainers/base:debian-12",
     "customizations": {
         "vscode": {
             "extensions": [
